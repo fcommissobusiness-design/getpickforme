@@ -20,11 +20,11 @@ Two things decide your air fryer: how many people you cook for, and how much wor
 
 ### Shortlist
 - [Ninja Foodi Dual Zone AF400UK](https://www.getpickforme.com/product/ninja-af400uk/): Dual-basket, 9.5L (two 4.75L drawers). The default pick for a family. The Sync function is the thing people actually keep using: chips in one drawer, chicken in the other, both done at once.
-- [Cosori Lite 3.8L](https://www.getpickforme.com/product/cosori-lite-38/): Single-basket, 3.8L. The honest small one. Buy it because your kitchen is small and your household is small, not because it's cheap.
-- [Tower Vortx 4L](https://www.getpickforme.com/product/tower-vortx-4/): Single-basket, 4L. The sensible 'try before you commit' option. Nothing clever, does the job for one or two.
-- [Tefal Easy Fry Dual](https://www.getpickforme.com/product/tefal-easy-fry-dual/): Dual-basket, 11L (6.5L + 4.5L drawers). The value dual-basket. If the Ninja is over budget, this is the one to look at before dropping to a single basket.
-- [Instant Vortex Plus 6L](https://www.getpickforme.com/product/instant-vortex-plus-6/): Single-basket, 5.7L. The 'one big basket' family option. Simpler than dual-zone, roomy enough for a family tray.
-- [Philips Airfryer 3000 Series](https://www.getpickforme.com/product/philips-airfryer-3000/): Single-basket, 5.6L. The premium small one. Buy it for longevity and consistency, not capacity.
+- [Cosori 4.7L Compact](https://www.getpickforme.com/product/cosori-lite-38/): Single-basket, 4.7L. The honest small one. Buy it because your kitchen is small and your household is small, not because it's cheap.
+- [Tower Vortx 4.2L Digital](https://www.getpickforme.com/product/tower-vortx-4/): Single-basket, 4.2L. The sensible 'try before you commit' option. Nothing clever, does the job for one or two.
+- [Tefal XXL 11L Dual Drawer](https://www.getpickforme.com/product/tefal-easy-fry-dual/): Dual-basket, 11L (two drawers). The value dual-basket. If the Ninja is over budget, this is the one to look at before dropping to a single basket.
+- [Instant Vortex Slim](https://www.getpickforme.com/product/instant-vortex-plus-6/): Single-basket, 5.7L. The 'one big basket' family option. Simpler than dual-zone, roomy enough for a family tray.
+- [Philips Airfryer 3000 Series XL](https://www.getpickforme.com/product/philips-airfryer-3000/): Single-basket, 6.2L. The premium small one. Buy it for longevity and consistency, not capacity.
 
 ## Cordless vacuums
 Three things decide your cordless vacuum: how big your home is (runtime), how much it weighs in your hand, and whether you've got pets or carpet. Suction numbers come last.
@@ -38,8 +38,8 @@ Three things decide your cordless vacuum: how big your home is (runtime), how mu
 - [Dyson V15 Detect Absolute](https://www.getpickforme.com/product/dyson-v15-detect/): Cordless stick, Up to ~60 min runtime · laser dust detection. The flagship. The laser genuinely changes how you clean hard floors, and nothing sucks harder. Buy it if budget is no object.
 - [Dyson V8](https://www.getpickforme.com/product/dyson-v8/): Cordless stick, Up to ~40 min runtime · ~2.6kg. The value Dyson, and the one most people should actually buy. Lighter and far cheaper than the V15, still more than enough for most homes.
 - [Shark Stratos Anti Hair Wrap Cordless](https://www.getpickforme.com/product/shark-stratos-cordless/): Cordless stick, Up to ~60 min (two batteries) · anti-hair-wrap. The pet-and-hair specialist. The anti-hair-wrap brush really works, and two batteries do a full house without a recharge.
-- [Vax ONEPWR Blade 4](https://www.getpickforme.com/product/vax-onepwr-blade-4/): Cordless stick, Up to ~45 min runtime · removable battery. The sensible British value pick. Does the job for most homes at a fair price, and the removable battery means a longer life.
-- [Tineco Pure One S15](https://www.getpickforme.com/product/tineco-pure-one-s15/): Cordless stick, Up to ~40 min · auto-adjusting suction. The smart mid-ranger. The auto-adjusting suction is the rare 'smart' feature you actually notice, for less than a Dyson.
+- [Vax Blade 4 Cordless](https://www.getpickforme.com/product/vax-onepwr-blade-4/): Cordless stick, Up to ~45 min runtime · removable battery. The sensible British value pick. Does the job for most homes at a fair price, and the removable battery means a longer life.
+- [Tineco Pure ONE S15 Essentials](https://www.getpickforme.com/product/tineco-pure-one-s15/): Cordless stick, Up to ~40 min · auto-adjusting suction. The smart mid-ranger. The auto-adjusting suction is the rare 'smart' feature you actually notice, for less than a Dyson.
 - [Halo Capsule X](https://www.getpickforme.com/product/halo-capsule-x/): Cordless stick, Around ~1.5kg · very light. The featherweight. Buy it if weight matters more than runtime, especially for stairs and overhead cleaning.
 
 ## Robot vacuums
@@ -53,10 +53,10 @@ Three things decide your robot vacuum: your budget, whether you want a dock that
 ### Shortlist
 - [eufy X10 Pro Omni](https://www.getpickforme.com/product/eufy-x10-pro-omni/): Robot vacuum + mop, Self-emptying · auto mop wash & dry. The value all-in-one, and the default pick for most homes. Empties itself and washes its own mop for around half the flagship price.
 - [Roborock Saros 20](https://www.getpickforme.com/product/roborock-saros-20/): Robot vacuum + mop, 36,000 Pa · self-washing mop · auto-empty. The flagship. Huge suction, a self-washing mop and a hands-off base. Buy it if the price doesn't scare you.
-- [Dreame L10s Ultra Gen 3](https://www.getpickforme.com/product/dreame-l10s-ultra/): Robot vacuum + mop, Self-washing mop · auto-empty base · strong suction. The value all-in-one rival to the eufy X10. Self-washing mop and auto-empty base with strong suction, for mid-range money.
+- [Dreame L10s Ultra Gen 2](https://www.getpickforme.com/product/dreame-l10s-ultra/): Robot vacuum + mop, Self-washing mop · auto-empty base · LiDAR. The value all-in-one rival to the eufy X10. Self-washing mop and auto-empty base, for mid-range money.
 - [Shark Matrix Plus](https://www.getpickforme.com/product/shark-matrix-plus/): Robot vacuum + mop, LiDAR mapping · Matrix grid cleaning. The UK-familiar mid pick. The grid cleaning does a thorough job on carpet and pet hair; you just empty the bin yourself.
-- [eufy L60](https://www.getpickforme.com/product/eufy-l60/): Robot vacuum, 5,000 Pa · laser navigation. The sensible budget pick. Good suction and laser navigation for hard floors and pet hair, without the expensive dock.
-- [iRobot Roomba 115 Combo](https://www.getpickforme.com/product/roomba-115-combo/): Robot vacuum + mop, 15,000 Pa · AutoEmpty dock · LiDAR. The budget Roomba with a self-emptying dock. The familiar name and hands-off emptying for little money.
+- [eufy L60 Hybrid](https://www.getpickforme.com/product/eufy-l60/): Robot vacuum + mop, Self-empty station · laser navigation. The budget self-empty pick. A self-emptying station and laser navigation at a price well below the flagships.
+- [iRobot Roomba 115 Combo](https://www.getpickforme.com/product/roomba-115-combo/): Robot vacuum + mop, 15,000 Pa · vacuum + mop · LiDAR. The budget Roomba. The familiar name and a vacuum-and-mop combo for little money; you empty the bin yourself.
 
 ## Dehumidifiers
 Three things decide your dehumidifier: how big and damp the space is, whether the room is heated or cold, and whether you'll use it to dry washing. The litres-per-day number on the box matters less than matching the right type to your room.
