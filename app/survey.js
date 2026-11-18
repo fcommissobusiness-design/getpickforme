@@ -141,7 +141,9 @@ window.Survey = (function () {
   }
 
   function verifica(p) { if (!p.checked) return ''; const [y, m, d] = p.checked.split('-'); const n = parseInt(d, 10); return 'verificato ' + ((n === 8 || n === 11) ? "l'" : 'il ') + n + ' ' + Engine.MESI_LUNGHI[parseInt(m, 10) - 1] + ' ' + y; }
-  function handoff(p) { const u = window.amazonUrl ? window.amazonUrl(p) : null; return u ? '<a class="btn btn-commerce" href="' + u + '" target="_blank" rel="noopener nofollow sponsored">Check price on Amazon ↗</a>' : ''; }
+  function handoff(p) { const u = window.amazonUrl ? window.amazonUrl(p) : null; return u ? '<a class="btn btn-commerce" href="' + u + '" target="_blank" rel="noopener nofollow sponsored">See it on Amazon ↗</a>' : ''; }
+  function ukd(iso) { if (!iso) return ''; const a = String(iso).split('-'); const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']; return a[2] ? (+a[2]) + ' ' + M[+a[1] - 1] + ' ' + a[0] : ''; }
+  function priceLine(p) { return (p.price != null) ? '<div class="price-line"><b>£' + p.price + '</b><span class="sub">' + (p.checked ? 'checked ' + ukd(p.checked) : '') + '</span></div>' : ''; }
 
   /* --- righe delle risposte gia' date (la "conversazione") --- */
   function conversazione(v, st, opts) {
@@ -178,9 +180,9 @@ window.Survey = (function () {
       '<h2 class="winner-name"><a href="' + opts.productUrl(p) + '">' + esc(fullName(p)) + '</a></h2>' + stars(p) +
       '<div class="winner-fit">' + esc(p.tagline) + '</div><div class="why"><h3>Why this one</h3>' + ragioni + '</div>' +
       '<div class="fitbox yes"><b>Buy it if</b>' + esc(p.buyIf) + '</div>' +
-      ''+
+      priceLine(p) +
       '<div class="handoff">' + handoff(p) + '<a class="btn btn-quiet" href="' + opts.productUrl(p) + '">Full details</a></div>' +
-      '<button class="btn-share" type="button" data-share="1" data-n="' + esc(fullName(p)) + '" data-price="" data-fit="' + esc(p.tagline || '') + '" data-img="' + esc(p.img || '') + '" data-cat="' + esc(v.name) + '"><span class="bs-ic" aria-hidden="true">↗</span> Share your match</button></div></div></article>' +
+      '<button class="btn-share" type="button" data-share="1" data-n="' + esc(fullName(p)) + '" data-price="' + esc(p.price != null ? '£' + p.price : '') + '" data-fit="' + esc(p.tagline || '') + '" data-img="' + esc(p.img || '') + '" data-cat="' + esc(v.name) + '"><span class="bs-ic" aria-hidden="true">↗</span> Share your match</button></div></div></article>' +
       (alts ? '<div class="alts"><h2>The other two picks</h2><p class="altsub">If your priorities change, these two still stand.</p><div class="altgrid">' + alts + '</div></div>' : '') +
       (whynot ? '<div class="whynot"><h2>Why not the others</h2>' + whynot + '</div>' : '') +
       '<div class="ffoot"><button data-sv="reset">Start over</button></div>';
@@ -224,7 +226,7 @@ window.Survey = (function () {
       body += '<div class="fv-reasons">' + r + '</div>';
     }
 
-    const card = '<article class="fv-prod ' + tone + '"><div class="fv-media">' + media(p) + '</div><div class="fv-b"><h3><a href="' + opts.productUrl(p) + '">' + esc(fullName(p)) + '</a></h3>' + stars(p) + '<div class="fv-fit">' + esc(p.tagline) + '</div><div class="handoff">' + handoff(p) + '<a class="btn btn-quiet" href="' + opts.productUrl(p) + '">Full details</a></div></div></article>';
+    const card = '<article class="fv-prod ' + tone + '"><div class="fv-media">' + media(p) + '</div><div class="fv-b"><h3><a href="' + opts.productUrl(p) + '">' + esc(fullName(p)) + '</a></h3>' + stars(p) + '<div class="fv-fit">' + esc(p.tagline) + '</div>' + priceLine(p) + '<div class="handoff">' + handoff(p) + '<a class="btn btn-quiet" href="' + opts.productUrl(p) + '">Full details</a></div></div></article>';
 
     const altsArr = rs.map(x => x.r.p).filter(q => q.id !== p.id).slice(0, 3);
     const altsHtml = altsArr.map(q => { const diff = q.price - p.price;

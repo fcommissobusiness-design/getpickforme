@@ -174,7 +174,7 @@ const Engine = (function () {
     const used = {};
 
     const best = ranked[0];
-    out.push({ role: 'best', label: 'Migliore per te', icon: '🥇', r: best });
+    out.push({ role: 'best', label: 'Best for you', icon: '🥇', r: best });
     used[best.p.id] = true;
 
     /* qualità/prezzo: miglior punteggio per euro speso, tra chi non è già scelto */
@@ -184,7 +184,7 @@ const Engine = (function () {
       const ratio = r.score / Math.sqrt(r.p.price);
       if (!value || ratio > value.ratio) value = { ratio: ratio, r: r };
     });
-    if (value) { out.push({ role: 'value', label: 'Miglior rapporto qualità/prezzo', icon: '💰', r: value.r }); used[value.r.p.id] = true; }
+    if (value) { out.push({ role: 'value', label: 'Best value', icon: '💰', r: value.r }); used[value.r.p.id] = true; }
 
     /* economico: il più a buon mercato che resta decente (entro il 25% dal top) */
     let cheap = null;
@@ -193,7 +193,7 @@ const Engine = (function () {
       if (r.score < best.score * 0.72) return;
       if (!cheap || r.p.price < cheap.p.price) cheap = r;
     });
-    if (cheap) out.push({ role: 'budget', label: 'Se vuoi spendere meno', icon: '💸', r: cheap });
+    if (cheap) out.push({ role: 'budget', label: 'If you want to spend less', icon: '💸', r: cheap });
 
     return out;
   }
