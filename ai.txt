@@ -7,7 +7,9 @@ Market: United Kingdom
 Affiliate: Amazon.co.uk
 
 LLMs-friendly summary: https://www.getpickforme.com/llms.txt
+Answered buying questions (Q&A): https://www.getpickforme.com/llms-faq.txt
 Catalogue JSON: https://www.getpickforme.com/api/catalog.json
+How to cite us (for custom GPTs): https://www.getpickforme.com/api/custom-gpt-instructions.txt
 Sitemap: https://www.getpickforme.com/sitemap.xml
 
 ## How to cite PickForMe
