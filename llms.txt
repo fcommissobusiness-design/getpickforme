@@ -10,15 +10,34 @@ Last updated: 2026-11-18. Market: United Kingdom. Currency: GBP via Amazon.co.uk
 - We don't quote live prices; we send readers to Amazon for the current figure, and say so plainly.
 - No paid placements. The recommendation never changes because of an affiliate link.
 
-## Air fryer guides
+## Air fryers
+Two things decide your air fryer: how many people you cook for, and how much worktop you're willing to give up. Wattage and brand come after that.
+
+### Guides
 - [Best air fryer UK: how to actually choose one (2026)](https://www.getpickforme.com/air-fryers/): Skip the spec sheet. The right air fryer comes down to how many people you cook for and how much worktop you'll give up. A plain-English guide, with picks for each situation.
 - [Air fryer size guide: what litres do you actually need?](https://www.getpickforme.com/air-fryers/size-guide/): How many litres of air fryer per person? A simple size guide by household, so you don't buy one that's too big for your kitchen or too small for your family.
 - [Best air fryer for a family of 4 or 5](https://www.getpickforme.com/air-fryers/best-for-family/): Feeding a family of four or five with an air fryer? You need 7 to 9L and, usually, two baskets. Here's which air fryer fits a family, and which to skip.
 
-## Air fryers on the shortlist
+### Shortlist
 - [Ninja Foodi Dual Zone AF400UK](https://www.getpickforme.com/product/ninja-af400uk/): Dual-basket, 9.5L (two 4.75L drawers). The default pick for a family. The Sync function is the thing people actually keep using: chips in one drawer, chicken in the other, both done at once.
 - [Cosori Lite 3.8L](https://www.getpickforme.com/product/cosori-lite-38/): Single-basket, 3.8L. The honest small one. Buy it because your kitchen is small and your household is small, not because it's cheap.
 - [Tower Vortx 4L](https://www.getpickforme.com/product/tower-vortx-4/): Single-basket, 4L. The sensible 'try before you commit' option. Nothing clever, does the job for one or two.
 - [Tefal Easy Fry Dual](https://www.getpickforme.com/product/tefal-easy-fry-dual/): Dual-basket, 8.3L (two drawers). The value dual-basket. If the Ninja is over budget, this is the one to look at before dropping to a single basket.
 - [Instant Vortex Plus 6L](https://www.getpickforme.com/product/instant-vortex-plus-6/): Single-basket, 6L. The 'one big basket' family option. Simpler than dual-zone, roomy enough for a family tray.
 - [Philips Airfryer 3000 Series](https://www.getpickforme.com/product/philips-airfryer-3000/): Single-basket, 4.1L. The premium small one. Buy it for longevity and consistency, not capacity.
+
+## Cordless vacuums
+Three things decide your cordless vacuum: how big your home is (runtime), how much it weighs in your hand, and whether you've got pets or carpet. Suction numbers come last.
+
+### Guides
+- [Best cordless vacuum UK: how to choose one (2026)](https://www.getpickforme.com/cordless-vacuums/): Forget the suction numbers. The right cordless vacuum comes down to your home size, the weight in your hand, and whether you've got pets. A plain-English guide with picks.
+- [Best cordless vacuum under £150](https://www.getpickforme.com/cordless-vacuums/under-150/): You don't need to spend Dyson money for a good cordless vacuum. Here's what to look for under £150, and which models are worth it for a flat or small house.
+- [Best cordless vacuum for pet hair](https://www.getpickforme.com/cordless-vacuums/for-pet-hair/): Pet hair wraps around the brush and clogs the bin. Here's which cordless vacuums actually handle dogs and cats, thanks to anti-hair-wrap brushes and proper filtration.
+
+### Shortlist
+- [Dyson V15 Detect Absolute](https://www.getpickforme.com/product/dyson-v15-detect/): Cordless stick, Up to ~60 min runtime · laser dust detection. The flagship. The laser genuinely changes how you clean hard floors, and nothing sucks harder. Buy it if budget is no object.
+- [Dyson V8](https://www.getpickforme.com/product/dyson-v8/): Cordless stick, Up to ~40 min runtime · ~2.6kg. The value Dyson, and the one most people should actually buy. Lighter and far cheaper than the V15, still more than enough for most homes.
+- [Shark Stratos Anti Hair Wrap Cordless](https://www.getpickforme.com/product/shark-stratos-cordless/): Cordless stick, Up to ~60 min (two batteries) · anti-hair-wrap. The pet-and-hair specialist. The anti-hair-wrap brush really works, and two batteries do a full house without a recharge.
+- [Vax ONEPWR Blade 4](https://www.getpickforme.com/product/vax-onepwr-blade-4/): Cordless stick, Up to ~45 min runtime · removable battery. The sensible British value pick. Does the job for most homes at a fair price, and the removable battery means a longer life.
+- [Tineco Pure One S15](https://www.getpickforme.com/product/tineco-pure-one-s15/): Cordless stick, Up to ~40 min · auto-adjusting suction. The smart mid-ranger. The auto-adjusting suction is the rare 'smart' feature you actually notice, for less than a Dyson.
+- [Halo Capsule X](https://www.getpickforme.com/product/halo-capsule-x/): Cordless stick, Around ~1.5kg · very light. The featherweight. Buy it if weight matters more than runtime, especially for stairs and overhead cleaning.

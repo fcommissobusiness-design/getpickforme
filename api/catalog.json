@@ -3,74 +3,153 @@
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
   "updated": "2026-11-18",
-  "category": "Air fryers",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
-  "products": [
+  "categories": [
     {
-      "id": "ninja-af400uk",
-      "name": "Ninja Foodi Dual Zone AF400UK",
-      "brand": "Ninja",
-      "type": "Dual-basket",
-      "capacity": "9.5L (two 4.75L drawers)",
-      "price_band": "mid-to-premium",
-      "buy_it_if": "You cook for 3 to 5 people, or you want a main and a side ready together without juggling one basket.",
-      "skip_it_if": "You're one or two people in a small kitchen. It's big, and you'd rarely use the second drawer.",
-      "url": "https://www.getpickforme.com/product/ninja-af400uk/"
+      "id": "air-fryers",
+      "name": "Air fryers",
+      "url": "https://www.getpickforme.com/air-fryers/",
+      "products": [
+        {
+          "id": "ninja-af400uk",
+          "name": "Ninja Foodi Dual Zone AF400UK",
+          "brand": "Ninja",
+          "type": "Dual-basket",
+          "key_spec": "9.5L (two 4.75L drawers)",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You cook for 3 to 5 people, or you want a main and a side ready together without juggling one basket.",
+          "skip_it_if": "You're one or two people in a small kitchen. It's big, and you'd rarely use the second drawer.",
+          "url": "https://www.getpickforme.com/product/ninja-af400uk/"
+        },
+        {
+          "id": "cosori-lite-38",
+          "name": "Cosori Lite 3.8L",
+          "brand": "Cosori",
+          "type": "Single-basket",
+          "key_spec": "3.8L",
+          "price_band": "budget-to-mid",
+          "buy_it_if": "You're one or two people, you want it to disappear into a cupboard, and you mostly reheat or cook for one.",
+          "skip_it_if": "You ever cook for more than two. A 3.8L basket does not do a family roast or a full tray of chips.",
+          "url": "https://www.getpickforme.com/product/cosori-lite-38/"
+        },
+        {
+          "id": "tower-vortx-4",
+          "name": "Tower Vortx 4L",
+          "brand": "Tower",
+          "type": "Single-basket",
+          "key_spec": "4L",
+          "price_band": "budget",
+          "buy_it_if": "You want to try an air fryer without spending much, cooking for one or two.",
+          "skip_it_if": "You already know you'll use it daily for a family. You'll outgrow 4L fast and buy twice.",
+          "url": "https://www.getpickforme.com/product/tower-vortx-4/"
+        },
+        {
+          "id": "tefal-easy-fry-dual",
+          "name": "Tefal Easy Fry Dual",
+          "brand": "Tefal",
+          "type": "Dual-basket",
+          "key_spec": "8.3L (two drawers)",
+          "price_band": "mid",
+          "buy_it_if": "You want two drawers for a family but don't want to pay the Ninja premium.",
+          "skip_it_if": "You want the smoothest two-things-done-together experience. The Ninja's sync is still the one to beat.",
+          "url": "https://www.getpickforme.com/product/tefal-easy-fry-dual/"
+        },
+        {
+          "id": "instant-vortex-plus-6",
+          "name": "Instant Vortex Plus 6L",
+          "brand": "Instant",
+          "type": "Single-basket",
+          "key_spec": "6L",
+          "price_band": "mid",
+          "buy_it_if": "You cook for 3 to 4 but prefer one large basket you can see into, rather than two separate drawers.",
+          "skip_it_if": "You specifically want two foods at two temperatures at once. One basket means one setting.",
+          "url": "https://www.getpickforme.com/product/instant-vortex-plus-6/"
+        },
+        {
+          "id": "philips-airfryer-3000",
+          "name": "Philips Airfryer 3000 Series",
+          "brand": "Philips",
+          "type": "Single-basket",
+          "key_spec": "4.1L",
+          "price_band": "premium",
+          "buy_it_if": "You want one that still feels solid in five years, cooking for one or two, and you'll pay for it.",
+          "skip_it_if": "You're on a budget or feeding a family. You're paying for the badge and the build, not the size.",
+          "url": "https://www.getpickforme.com/product/philips-airfryer-3000/"
+        }
+      ]
     },
     {
-      "id": "cosori-lite-38",
-      "name": "Cosori Lite 3.8L",
-      "brand": "Cosori",
-      "type": "Single-basket",
-      "capacity": "3.8L",
-      "price_band": "budget-to-mid",
-      "buy_it_if": "You're one or two people, you want it to disappear into a cupboard, and you mostly reheat or cook for one.",
-      "skip_it_if": "You ever cook for more than two. A 3.8L basket does not do a family roast or a full tray of chips.",
-      "url": "https://www.getpickforme.com/product/cosori-lite-38/"
-    },
-    {
-      "id": "tower-vortx-4",
-      "name": "Tower Vortx 4L",
-      "brand": "Tower",
-      "type": "Single-basket",
-      "capacity": "4L",
-      "price_band": "budget",
-      "buy_it_if": "You want to try an air fryer without spending much, cooking for one or two.",
-      "skip_it_if": "You already know you'll use it daily for a family. You'll outgrow 4L fast and buy twice.",
-      "url": "https://www.getpickforme.com/product/tower-vortx-4/"
-    },
-    {
-      "id": "tefal-easy-fry-dual",
-      "name": "Tefal Easy Fry Dual",
-      "brand": "Tefal",
-      "type": "Dual-basket",
-      "capacity": "8.3L (two drawers)",
-      "price_band": "mid",
-      "buy_it_if": "You want two drawers for a family but don't want to pay the Ninja premium.",
-      "skip_it_if": "You want the smoothest two-things-done-together experience. The Ninja's sync is still the one to beat.",
-      "url": "https://www.getpickforme.com/product/tefal-easy-fry-dual/"
-    },
-    {
-      "id": "instant-vortex-plus-6",
-      "name": "Instant Vortex Plus 6L",
-      "brand": "Instant",
-      "type": "Single-basket",
-      "capacity": "6L",
-      "price_band": "mid",
-      "buy_it_if": "You cook for 3 to 4 but prefer one large basket you can see into, rather than two separate drawers.",
-      "skip_it_if": "You specifically want two foods at two temperatures at once. One basket means one setting.",
-      "url": "https://www.getpickforme.com/product/instant-vortex-plus-6/"
-    },
-    {
-      "id": "philips-airfryer-3000",
-      "name": "Philips Airfryer 3000 Series",
-      "brand": "Philips",
-      "type": "Single-basket",
-      "capacity": "4.1L",
-      "price_band": "premium",
-      "buy_it_if": "You want one that still feels solid in five years, cooking for one or two, and you'll pay for it.",
-      "skip_it_if": "You're on a budget or feeding a family. You're paying for the badge and the build, not the size.",
-      "url": "https://www.getpickforme.com/product/philips-airfryer-3000/"
+      "id": "cordless-vacuums",
+      "name": "Cordless vacuums",
+      "url": "https://www.getpickforme.com/cordless-vacuums/",
+      "products": [
+        {
+          "id": "dyson-v15-detect",
+          "name": "Dyson V15 Detect Absolute",
+          "brand": "Dyson",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~60 min runtime · laser dust detection",
+          "price_band": "premium",
+          "buy_it_if": "You want the deepest clean, you have pets or allergies, you've a mix of hard floors and carpet, and the price doesn't scare you.",
+          "skip_it_if": "You're on a budget or in a small flat. You'd be paying for power and tech you won't fully use.",
+          "url": "https://www.getpickforme.com/product/dyson-v15-detect/"
+        },
+        {
+          "id": "dyson-v8",
+          "name": "Dyson V8",
+          "brand": "Dyson",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~40 min runtime · ~2.6kg",
+          "price_band": "mid",
+          "buy_it_if": "You want a Dyson that's light and reliable without the flagship price, in a flat or small-to-medium house.",
+          "skip_it_if": "You have a big house with lots of carpet. The runtime and bin are on the smaller side.",
+          "url": "https://www.getpickforme.com/product/dyson-v8/"
+        },
+        {
+          "id": "shark-stratos-cordless",
+          "name": "Shark Stratos Anti Hair Wrap Cordless",
+          "brand": "Shark",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~60 min (two batteries) · anti-hair-wrap",
+          "price_band": "mid",
+          "buy_it_if": "You have long hair or pets and hate unpicking the brush roll. Two batteries cover a whole house in one go.",
+          "skip_it_if": "You want the absolute lightest machine. Shark sticks are a touch heavier than a Dyson V8.",
+          "url": "https://www.getpickforme.com/product/shark-stratos-cordless/"
+        },
+        {
+          "id": "vax-onepwr-blade-4",
+          "name": "Vax ONEPWR Blade 4",
+          "brand": "Vax",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~45 min runtime · removable battery",
+          "price_band": "budget-to-mid",
+          "buy_it_if": "You want solid cordless cleaning without Dyson money, and you like that the battery lifts out to swap or replace.",
+          "skip_it_if": "You want the lightest or the plushest. This is sensible and sturdy, not fancy.",
+          "url": "https://www.getpickforme.com/product/vax-onepwr-blade-4/"
+        },
+        {
+          "id": "tineco-pure-one-s15",
+          "name": "Tineco Pure One S15",
+          "brand": "Tineco",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~40 min · auto-adjusting suction",
+          "price_band": "mid",
+          "buy_it_if": "You want smart features, auto suction and a dirt sensor, at a mid price rather than a flagship one.",
+          "skip_it_if": "You distrust gadgets and just want raw simplicity. The smarts add a little cost.",
+          "url": "https://www.getpickforme.com/product/tineco-pure-one-s15/"
+        },
+        {
+          "id": "halo-capsule-x",
+          "name": "Halo Capsule X",
+          "brand": "Halo",
+          "type": "Cordless stick",
+          "key_spec": "Around ~1.5kg · very light",
+          "price_band": "mid",
+          "buy_it_if": "Weight is your priority: lots of stairs, reaching up high, or limited grip strength.",
+          "skip_it_if": "You need long runtime and big-house power. Light means a smaller battery and bin.",
+          "url": "https://www.getpickforme.com/product/halo-capsule-x/"
+        }
+      ]
     }
   ]
 }
