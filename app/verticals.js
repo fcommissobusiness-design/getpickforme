@@ -111,7 +111,7 @@ window.VERTICALS = [
         question: "Do you want a dock that empties itself?",
         options: [
           { id: "yes", label: "Yes, self-emptying dock", reason: "a self-emptying dock",
-            must: p => p.selfEmpty === true },
+            score: p => (p.selfEmpty === true ? 5 : 0) },
           { id: "no", label: "Not fussed, I'll empty it", reason: "happy to empty it yourself",
             score: p => 0 },
         ],

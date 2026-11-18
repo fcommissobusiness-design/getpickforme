@@ -35,12 +35,12 @@ Three things decide your cordless vacuum: how big your home is (runtime), how mu
 - [Best cordless vacuum for pet hair](https://www.getpickforme.com/cordless-vacuums/for-pet-hair/): Pet hair wraps around the brush and clogs the bin. Here's which cordless vacuums actually handle dogs and cats, thanks to anti-hair-wrap brushes and proper filtration.
 
 ### Shortlist
-- [Dyson V15 Detect Absolute](https://www.getpickforme.com/product/dyson-v15-detect/): Cordless stick, Up to ~60 min runtime · laser dust detection. The flagship. The laser genuinely changes how you clean hard floors, and nothing sucks harder. Buy it if budget is no object.
+- [Dyson V15 Detect](https://www.getpickforme.com/product/dyson-v15-detect/): Cordless stick, Up to ~60 min runtime · laser dust detection. The flagship. The laser genuinely changes how you clean hard floors, and nothing sucks harder. Buy it if budget is no object.
 - [Dyson V8](https://www.getpickforme.com/product/dyson-v8/): Cordless stick, Up to ~40 min runtime · ~2.6kg. The value Dyson, and the one most people should actually buy. Lighter and far cheaper than the V15, still more than enough for most homes.
 - [Shark Stratos Anti Hair Wrap Cordless](https://www.getpickforme.com/product/shark-stratos-cordless/): Cordless stick, Up to ~60 min (two batteries) · anti-hair-wrap. The pet-and-hair specialist. The anti-hair-wrap brush really works, and two batteries do a full house without a recharge.
 - [Vax Blade 4 Cordless](https://www.getpickforme.com/product/vax-onepwr-blade-4/): Cordless stick, Up to ~45 min runtime · removable battery. The sensible British value pick. Does the job for most homes at a fair price, and the removable battery means a longer life.
 - [Tineco Pure ONE S15 Essentials](https://www.getpickforme.com/product/tineco-pure-one-s15/): Cordless stick, Up to ~40 min · auto-adjusting suction. The smart mid-ranger. The auto-adjusting suction is the rare 'smart' feature you actually notice, for less than a Dyson.
-- [Halo Capsule X](https://www.getpickforme.com/product/halo-capsule-x/): Cordless stick, Around ~1.5kg · very light. The featherweight. Buy it if weight matters more than runtime, especially for stairs and overhead cleaning.
+- [Halo Capsule X Pets](https://www.getpickforme.com/product/halo-capsule-x/): Cordless stick, Around ~1.5kg · very light. The featherweight. Buy it if weight matters more than runtime, especially for stairs and overhead cleaning.
 
 ## Robot vacuums
 Three things decide your robot vacuum: your budget, whether you want a dock that empties itself, and how much pet hair and carpet you throw at it. Giant suction numbers come last.
@@ -55,7 +55,7 @@ Three things decide your robot vacuum: your budget, whether you want a dock that
 - [Roborock Saros 20](https://www.getpickforme.com/product/roborock-saros-20/): Robot vacuum + mop, 36,000 Pa · self-washing mop · auto-empty. The flagship. Huge suction, a self-washing mop and a hands-off base. Buy it if the price doesn't scare you.
 - [Dreame L10s Ultra Gen 2](https://www.getpickforme.com/product/dreame-l10s-ultra/): Robot vacuum + mop, Self-washing mop · auto-empty base · LiDAR. The value all-in-one rival to the eufy X10. Self-washing mop and auto-empty base, for mid-range money.
 - [Shark Matrix Plus](https://www.getpickforme.com/product/shark-matrix-plus/): Robot vacuum + mop, LiDAR mapping · Matrix grid cleaning. The UK-familiar mid pick. The grid cleaning does a thorough job on carpet and pet hair; you just empty the bin yourself.
-- [eufy L60 Hybrid](https://www.getpickforme.com/product/eufy-l60/): Robot vacuum + mop, Self-empty station · laser navigation. The budget self-empty pick. A self-emptying station and laser navigation at a price well below the flagships.
+- [eufy L60](https://www.getpickforme.com/product/eufy-l60/): Robot vacuum, 5,000 Pa · laser navigation. The sensible budget pick. Good suction and laser navigation for hard floors and pet hair, without the expensive dock.
 - [iRobot Roomba 115 Combo](https://www.getpickforme.com/product/roomba-115-combo/): Robot vacuum + mop, 15,000 Pa · vacuum + mop · LiDAR. The budget Roomba. The familiar name and a vacuum-and-mop combo for little money; you empty the bin yourself.
 
 ## Dehumidifiers

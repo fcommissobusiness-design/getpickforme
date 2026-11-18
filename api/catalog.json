@@ -85,7 +85,7 @@
       "products": [
         {
           "id": "dyson-v15-detect",
-          "name": "Dyson V15 Detect Absolute",
+          "name": "Dyson V15 Detect",
           "brand": "Dyson",
           "type": "Cordless stick",
           "key_spec": "Up to ~60 min runtime · laser dust detection",
@@ -140,7 +140,7 @@
         },
         {
           "id": "halo-capsule-x",
-          "name": "Halo Capsule X",
+          "name": "Halo Capsule X Pets",
           "brand": "Halo",
           "type": "Cordless stick",
           "key_spec": "Around ~1.5kg · very light",
@@ -202,13 +202,13 @@
         },
         {
           "id": "eufy-l60",
-          "name": "eufy L60 Hybrid",
+          "name": "eufy L60",
           "brand": "eufy",
-          "type": "Robot vacuum + mop",
-          "key_spec": "Self-empty station · laser navigation",
+          "type": "Robot vacuum",
+          "key_spec": "5,000 Pa · laser navigation",
           "price_band": "budget-to-mid",
-          "buy_it_if": "You want the hands-off life of a self-emptying station but don't want to pay flagship money.",
-          "skip_it_if": "You want the strongest suction or a self-washing mop; this keeps it affordable, not flagship.",
+          "buy_it_if": "You want a solid everyday robot for hard floors and pet hair without paying for a fancy station.",
+          "skip_it_if": "You want a self-emptying base or serious mopping; this is the simple, affordable pick.",
           "url": "https://www.getpickforme.com/product/eufy-l60/"
         },
         {
