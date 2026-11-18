@@ -223,6 +223,79 @@
           "url": "https://www.getpickforme.com/product/roomba-115-combo/"
         }
       ]
+    },
+    {
+      "id": "dehumidifiers",
+      "name": "Dehumidifiers",
+      "url": "https://www.getpickforme.com/dehumidifiers/",
+      "products": [
+        {
+          "id": "pro-breeze-20l",
+          "name": "Pro Breeze 20L OmniDry",
+          "brand": "Pro Breeze",
+          "type": "Compressor dehumidifier",
+          "key_spec": "20L/day · Which? Best Buy · ultra-quiet",
+          "price_band": "mid",
+          "buy_it_if": "You want one dependable unit for a normal heated home that handles damp, condensation and the odd load of washing.",
+          "skip_it_if": "Your problem room is a cold garage or conservatory; in the cold a desiccant works better.",
+          "url": "https://www.getpickforme.com/product/pro-breeze-20l/"
+        },
+        {
+          "id": "pro-breeze-30l",
+          "name": "Pro Breeze 30L Smart",
+          "brand": "Pro Breeze",
+          "type": "Compressor dehumidifier",
+          "key_spec": "30L/day · Wi-Fi app · high capacity",
+          "price_band": "mid",
+          "buy_it_if": "You've got a large home, a persistent damp problem, or you're drying a building out; you need the biggest pull.",
+          "skip_it_if": "You only need to keep one room's condensation down; this is more capacity (and size) than you need.",
+          "url": "https://www.getpickforme.com/product/pro-breeze-30l/"
+        },
+        {
+          "id": "pro-breeze-12l",
+          "name": "Pro Breeze 12L",
+          "brand": "Pro Breeze",
+          "type": "Compressor dehumidifier",
+          "key_spec": "12L/day · laundry mode · compact",
+          "price_band": "budget",
+          "buy_it_if": "You want to kill condensation and damp in a single room or a small flat without spending a lot.",
+          "skip_it_if": "You need to cover a whole house or a very damp space; the bigger units pull far more.",
+          "url": "https://www.getpickforme.com/product/pro-breeze-12l/"
+        },
+        {
+          "id": "delonghi-ariadry-multi",
+          "name": "De'Longhi Tasciugo AriaDry Multi",
+          "brand": "De'Longhi",
+          "type": "Compressor dehumidifier",
+          "key_spec": "16L/day · strong laundry drying",
+          "price_band": "premium",
+          "buy_it_if": "Drying laundry indoors is a main reason you're buying, and you want a known brand you can trust.",
+          "skip_it_if": "You want the cheapest route, or a near-silent bedroom unit; it's pricier and not the quietest.",
+          "url": "https://www.getpickforme.com/product/delonghi-ariadry-multi/"
+        },
+        {
+          "id": "ecoair-dd1",
+          "name": "EcoAir DD1 Classic MK6",
+          "brand": "EcoAir",
+          "type": "Desiccant dehumidifier",
+          "key_spec": "7.5L/day · works in the cold · quiet 34dB",
+          "price_band": "mid",
+          "buy_it_if": "Your damp problem is a cold or unheated space (garage, conservatory, caravan) where a normal dehumidifier struggles.",
+          "skip_it_if": "You're drying out a big warm house; a higher-capacity compressor pulls more water per hour there.",
+          "url": "https://www.getpickforme.com/product/ecoair-dd1/"
+        },
+        {
+          "id": "meaco-dd8l",
+          "name": "Meaco DD8L",
+          "brand": "Meaco",
+          "type": "Desiccant dehumidifier",
+          "key_spec": "8L/day · unheated rooms · fast on laundry",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want to dry washing fast in an unheated room, or tackle damp somewhere cold, from a brand critics rate.",
+          "skip_it_if": "Your home is warm and you want maximum water pulled per hour; a compressor does that for less.",
+          "url": "https://www.getpickforme.com/product/meaco-dd8l/"
+        }
+      ]
     }
   ]
 }

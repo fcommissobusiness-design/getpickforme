@@ -128,4 +128,45 @@ window.VERTICALS = [
       },
     ],
   },
+  {
+    id: "dehumidifiers",
+    name: "Dehumidifiers",
+    singular: "dehumidifier",
+    short: "Dehumidifiers for every home",
+    keywords: "dehumidifier, dehumidifiers, dehumidify, damp, condensation, mould, mold, drying clothes, drying washing, meaco, pro breeze, ecoair, desiccant, compressor dehumidifier",
+    facets: [
+      {
+        id: "space",
+        question: "Where will it mostly run?",
+        options: [
+          { id: "heated", label: "Heated rooms (a normal home)", reason: "a normal heated home",
+            score: p => (p.type === "compressor" ? 4 : 0) },
+          { id: "cold", label: "A cold or unheated space (garage, conservatory, caravan)", reason: "a cold or unheated space",
+            must: p => p.type === "desiccant" },
+        ],
+      },
+      {
+        id: "size",
+        question: "How much space, and how bad is the damp?",
+        options: [
+          { id: "room", label: "One room or a small flat", reason: "one room or a small flat",
+            score: p => (p.capLpd <= 12 ? 3 : 0) },
+          { id: "home", label: "A typical 2 to 3 bed home", reason: "a typical home",
+            score: p => (p.capLpd >= 16 && p.capLpd <= 20 ? 4 : (p.capLpd > 12 ? 2 : 0)) },
+          { id: "big", label: "A big or very damp house", reason: "a big or very damp house",
+            score: p => (p.capLpd >= 30 ? 6 : (p.capLpd >= 20 ? 3 : 0)) },
+        ],
+      },
+      {
+        id: "laundry",
+        question: "Will you use it to dry washing indoors?",
+        options: [
+          { id: "yes", label: "Yes, that's a big reason", reason: "drying washing indoors",
+            score: p => p.dryClothes },
+          { id: "no", label: "No, mainly damp and condensation", reason: "mainly damp and condensation",
+            score: p => 0 },
+        ],
+      },
+    ],
+  },
 ];
