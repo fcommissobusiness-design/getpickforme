@@ -50,6 +50,32 @@
   <div class="fbottom"><span>&copy; 2026 PickForMe &middot; You need it. We pick it.</span></div>
 </div></footer>
 <script>(function(){var b=document.querySelector('[data-navtoggle]'),m=document.getElementById('mnav');if(!b||!m)return;b.addEventListener('click',function(){var o=m.hidden;m.hidden=!o;b.setAttribute('aria-expanded',o?'true':'false');});})();</script>
+<script>(function(){
+function carousel(root){
+  var track=root.querySelector('.ctrack'); if(!track||!track.querySelector('.pcard'))return;
+  var step=function(){var c=track.querySelector('.pcard');return c?c.getBoundingClientRect().width+16:240;};
+  var nx=root.querySelector('.cnext'),pv=root.querySelector('.cprev');
+  if(nx)nx.addEventListener('click',function(){track.scrollBy({left:step()*1.2,behavior:'smooth'});});
+  if(pv)pv.addEventListener('click',function(){track.scrollBy({left:-step()*1.2,behavior:'smooth'});});
+  var paused=false,rt=null;
+  var pause=function(){paused=true;clearTimeout(rt);};
+  var soon=function(ms){clearTimeout(rt);rt=setTimeout(function(){paused=false;},ms||1500);};
+  root.addEventListener('mouseenter',pause);
+  root.addEventListener('mouseleave',function(){soon(300);});
+  root.addEventListener('pointerdown',pause);
+  track.addEventListener('touchstart',pause,{passive:true});
+  root.addEventListener('pointerup',function(){soon();});
+  root.addEventListener('touchend',function(){soon();});
+  track.addEventListener('scroll',function(){pause();soon();},{passive:true});
+  setInterval(function(){
+    if(paused||document.visibilityState!=='visible')return;
+    var max=track.scrollWidth-track.clientWidth-4; if(max<=0)return;
+    if(track.scrollLeft>=max)track.scrollTo({left:0,behavior:'smooth'});
+    else track.scrollBy({left:step(),behavior:'smooth'});
+  },3200);
+}
+document.querySelectorAll('.carousel').forEach(carousel);
+})();</script>
 <style>
 #pfm-cc{position:fixed;left:16px;right:16px;bottom:16px;z-index:9999;max-width:640px;margin:0 auto;background:#fff;border:1px solid var(--line,#e7e2dd);border-radius:14px;box-shadow:0 10px 30px rgba(17,34,58,.14);padding:16px 18px;display:none;font-size:14.5px;color:var(--ink-2,#4a5a70)}
 #pfm-cc.show{display:block}
