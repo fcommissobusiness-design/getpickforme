@@ -150,6 +150,79 @@
           "url": "https://www.getpickforme.com/product/halo-capsule-x/"
         }
       ]
+    },
+    {
+      "id": "robot-vacuums",
+      "name": "Robot vacuums",
+      "url": "https://www.getpickforme.com/robot-vacuums/",
+      "products": [
+        {
+          "id": "eufy-x10-pro-omni",
+          "name": "eufy X10 Pro Omni",
+          "brand": "eufy",
+          "type": "Robot vacuum + mop",
+          "key_spec": "Self-emptying · auto mop wash & dry",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want the hands-off life (it empties itself and washes its own mop) without paying flagship money.",
+          "skip_it_if": "You have very thick carpet and want the absolute strongest suction; the flagships pull harder.",
+          "url": "https://www.getpickforme.com/product/eufy-x10-pro-omni/"
+        },
+        {
+          "id": "roborock-saros-20",
+          "name": "Roborock Saros 20",
+          "brand": "Roborock",
+          "type": "Robot vacuum + mop",
+          "key_spec": "36,000 Pa · self-washing mop · auto-empty",
+          "price_band": "premium",
+          "buy_it_if": "You want the best clean money can buy: strong suction for carpet, a mop that washes itself, and a base that empties for weeks.",
+          "skip_it_if": "You're on a budget. This is flagship money for features you may not fully use.",
+          "url": "https://www.getpickforme.com/product/roborock-saros-20/"
+        },
+        {
+          "id": "dreame-l10s-ultra",
+          "name": "Dreame L10s Ultra Gen 3",
+          "brand": "Dreame",
+          "type": "Robot vacuum + mop",
+          "key_spec": "Self-washing mop · auto-empty base · strong suction",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want the full hands-off experience (self-empty + self-washing mop) and strong suction, but not flagship prices.",
+          "skip_it_if": "You want the very newest navigation tech; it's a step behind the latest flagships, which is why it costs less.",
+          "url": "https://www.getpickforme.com/product/dreame-l10s-ultra/"
+        },
+        {
+          "id": "shark-matrix-plus",
+          "name": "Shark Matrix Plus",
+          "brand": "Shark",
+          "type": "Robot vacuum + mop",
+          "key_spec": "LiDAR mapping · Matrix grid cleaning",
+          "price_band": "mid",
+          "buy_it_if": "You want a well-known UK brand, good carpet and pet-hair handling, and tidy edge cleaning, at a mid price.",
+          "skip_it_if": "You want a self-emptying base; this charges itself, but you still empty the bin yourself.",
+          "url": "https://www.getpickforme.com/product/shark-matrix-plus/"
+        },
+        {
+          "id": "eufy-l60",
+          "name": "eufy L60",
+          "brand": "eufy",
+          "type": "Robot vacuum",
+          "key_spec": "5,000 Pa · laser navigation",
+          "price_band": "budget-to-mid",
+          "buy_it_if": "You want a solid everyday robot for hard floors and pet hair without paying for a fancy station.",
+          "skip_it_if": "You want a self-emptying base or serious mopping; this is the simple, affordable pick.",
+          "url": "https://www.getpickforme.com/product/eufy-l60/"
+        },
+        {
+          "id": "roomba-115-combo",
+          "name": "iRobot Roomba 115 Combo",
+          "brand": "iRobot",
+          "type": "Robot vacuum + mop",
+          "key_spec": "15,000 Pa · AutoEmpty dock · LiDAR",
+          "price_band": "budget-to-mid",
+          "buy_it_if": "You want the reassurance of the Roomba brand plus a base that empties itself, at a budget price.",
+          "skip_it_if": "You want top-tier mopping; it vacuums and mops, but the mop is basic next to the premium all-in-ones.",
+          "url": "https://www.getpickforme.com/product/roomba-115-combo/"
+        }
+      ]
     }
   ]
 }

@@ -87,4 +87,45 @@ window.VERTICALS = [
       },
     ],
   },
+  {
+    id: "robot-vacuums",
+    name: "Robot vacuums",
+    singular: "robot vacuum",
+    short: "Robot vacuums for every home",
+    keywords: "robot vacuum, robot vacuums, robot hoover, robovac, robotic vacuum, roomba, roborock, eufy robot, self-emptying robot vacuum, robot mop",
+    facets: [
+      {
+        id: "budget",
+        question: "What's your budget?",
+        options: [
+          { id: "u300", label: "Under £300", reason: "under £300",
+            must: p => p.price <= 300 },
+          { id: "u600", label: "£300 to £600", reason: "£300 to £600",
+            must: p => p.price <= 600 },
+          { id: "any", label: "Best one, price aside", reason: "the best regardless of price",
+            score: p => 0 },
+        ],
+      },
+      {
+        id: "station",
+        question: "Do you want a dock that empties itself?",
+        options: [
+          { id: "yes", label: "Yes, self-emptying dock", reason: "a self-emptying dock",
+            must: p => p.selfEmpty === true },
+          { id: "no", label: "Not fussed, I'll empty it", reason: "happy to empty it yourself",
+            score: p => 0 },
+        ],
+      },
+      {
+        id: "clean",
+        question: "Pets or thick carpet to deal with?",
+        options: [
+          { id: "yes", label: "Yes, pets or thick carpet", reason: "pets or thick carpet",
+            score: p => (p.suction >= 20000 ? 6 : (p.suction >= 12000 ? 3 : 0)) },
+          { id: "no", label: "Mostly hard floors", reason: "mostly hard floors",
+            score: p => 0 },
+        ],
+      },
+    ],
+  },
 ];

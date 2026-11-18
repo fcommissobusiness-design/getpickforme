@@ -41,3 +41,19 @@ Three things decide your cordless vacuum: how big your home is (runtime), how mu
 - [Vax ONEPWR Blade 4](https://www.getpickforme.com/product/vax-onepwr-blade-4/): Cordless stick, Up to ~45 min runtime · removable battery. The sensible British value pick. Does the job for most homes at a fair price, and the removable battery means a longer life.
 - [Tineco Pure One S15](https://www.getpickforme.com/product/tineco-pure-one-s15/): Cordless stick, Up to ~40 min · auto-adjusting suction. The smart mid-ranger. The auto-adjusting suction is the rare 'smart' feature you actually notice, for less than a Dyson.
 - [Halo Capsule X](https://www.getpickforme.com/product/halo-capsule-x/): Cordless stick, Around ~1.5kg · very light. The featherweight. Buy it if weight matters more than runtime, especially for stairs and overhead cleaning.
+
+## Robot vacuums
+Three things decide your robot vacuum: your budget, whether you want a dock that empties itself, and how much pet hair and carpet you throw at it. Giant suction numbers come last.
+
+### Guides
+- [Best robot vacuum UK: how to choose one (2026)](https://www.getpickforme.com/robot-vacuums/): Robot vacuums run from £150 to over £1,000 and the spec sheets are a wall of Pa numbers. Three questions cut through it: budget, self-emptying dock, and pets or carpet.
+- [Best robot vacuum under £300](https://www.getpickforme.com/robot-vacuums/under-300/): You don't need to spend £600+ for a good robot vacuum. Under £300 you can even get a self-emptying dock. Here's what to buy, and what to skip.
+- [Best robot vacuum for pet hair](https://www.getpickforme.com/robot-vacuums/for-pet-hair/): Pet hair clogs brushes and fills the bin fast. The robots that cope have strong suction, anti-tangle brushes and a self-emptying dock. Here's which ones to buy.
+
+### Shortlist
+- [eufy X10 Pro Omni](https://www.getpickforme.com/product/eufy-x10-pro-omni/): Robot vacuum + mop, Self-emptying · auto mop wash & dry. The value all-in-one, and the default pick for most homes. Empties itself and washes its own mop for around half the flagship price.
+- [Roborock Saros 20](https://www.getpickforme.com/product/roborock-saros-20/): Robot vacuum + mop, 36,000 Pa · self-washing mop · auto-empty. The flagship. Huge suction, a self-washing mop and a hands-off base. Buy it if the price doesn't scare you.
+- [Dreame L10s Ultra Gen 3](https://www.getpickforme.com/product/dreame-l10s-ultra/): Robot vacuum + mop, Self-washing mop · auto-empty base · strong suction. The value all-in-one rival to the eufy X10. Self-washing mop and auto-empty base with strong suction, for mid-range money.
+- [Shark Matrix Plus](https://www.getpickforme.com/product/shark-matrix-plus/): Robot vacuum + mop, LiDAR mapping · Matrix grid cleaning. The UK-familiar mid pick. The grid cleaning does a thorough job on carpet and pet hair; you just empty the bin yourself.
+- [eufy L60](https://www.getpickforme.com/product/eufy-l60/): Robot vacuum, 5,000 Pa · laser navigation. The sensible budget pick. Good suction and laser navigation for hard floors and pet hair, without the expensive dock.
+- [iRobot Roomba 115 Combo](https://www.getpickforme.com/product/roomba-115-combo/): Robot vacuum + mop, 15,000 Pa · AutoEmpty dock · LiDAR. The budget Roomba with a self-emptying dock. The familiar name and hands-off emptying for little money.

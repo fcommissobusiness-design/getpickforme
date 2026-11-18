@@ -258,7 +258,7 @@ window.Survey = (function () {
     let html = '<div class="finder">';
     /* barra di ricerca conversazionale: sempre in cima */
     if (!v) {
-      html += '<form class="ask" data-sv-form><input type="text" name="q" autocomplete="off" enterkeyhint="search" placeholder="' + esc(opts.placeholder || 'Type what you need, then press enter') + '" value="' + esc(st.text || '') + '" aria-label="Cosa ti serve"><button class="btn-orange" type="submit">Search</button></form><div class="svac" data-sv-ac role="listbox" hidden></div>';
+      html += '<form class="ask" data-sv-form><input type="text" name="q" autocomplete="off" enterkeyhint="search" placeholder="' + esc(opts.placeholder || 'Type what you need, then press enter') + '" value="' + esc(st.text || '') + '" aria-label="What do you need?"><button class="btn-orange" type="submit">Search</button></form><div class="svac" data-sv-ac role="listbox" hidden></div>';
       if (st.miss) {
         const alts = detect(st.text).alts;
         html += '<div class="crow me"><b>We don\'t cover this category yet.</b><span>For now we only cover where getting it wrong is costly: ' +
