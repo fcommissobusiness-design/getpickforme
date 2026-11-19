@@ -75,6 +75,50 @@
           "buy_it_if": "You want one that still feels solid in five years, cooking for one or two, and you'll pay for it.",
           "skip_it_if": "You're on a budget or feeding a family. You're paying for the badge and the build, not the size.",
           "url": "https://www.getpickforme.com/product/philips-airfryer-3000/"
+        },
+        {
+          "id": "ninja-flexdrawer",
+          "name": "Ninja FlexDrawer AF500UK",
+          "brand": "Ninja",
+          "type": "Dual-basket",
+          "key_spec": "10.4L (flex drawer: one 10.4L or two 5.2L)",
+          "price_band": "premium",
+          "buy_it_if": "You want the flexibility of dual-zone AND the option of one giant basket for a whole chicken or tray.",
+          "skip_it_if": "You cook for 2 and never have guests; a 10.4L is overkill and takes a lot of worktop.",
+          "url": "https://www.getpickforme.com/product/ninja-flexdrawer/"
+        },
+        {
+          "id": "cosori-dual-85",
+          "name": "Cosori Dual Air Fryer 8.5L",
+          "brand": "Cosori",
+          "type": "Dual-basket",
+          "key_spec": "8.5L (two drawers) · clear window",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want a dual-basket alternative to the Ninja with a window to watch the food, for a bit less money.",
+          "skip_it_if": "You specifically want the Ninja Sync; Cosori’s sync works but Ninja’s is the benchmark.",
+          "url": "https://www.getpickforme.com/product/cosori-dual-85/"
+        },
+        {
+          "id": "salter-ek4548",
+          "name": "Salter EK4548 Dual",
+          "brand": "Salter",
+          "type": "Dual-basket",
+          "key_spec": "7.6L (two drawers) · sync & match",
+          "price_band": "budget",
+          "buy_it_if": "You want two drawers without spending Ninja money, from a UK name you’ve seen on your mum’s scales.",
+          "skip_it_if": "You cook for 5+ regularly; 7.6L across two drawers is a squeeze for a big family.",
+          "url": "https://www.getpickforme.com/product/salter-ek4548/"
+        },
+        {
+          "id": "russell-hobbs-satisfry-5",
+          "name": "Russell Hobbs Satisfry 5L",
+          "brand": "Russell Hobbs",
+          "type": "Single-basket",
+          "key_spec": "5L · UK brand entry",
+          "price_band": "budget",
+          "buy_it_if": "You want a no-fuss single basket from a brand your kitchen already knows, at the lowest sensible price.",
+          "skip_it_if": "You want the smartest or the newest; this is deliberately simple and basic.",
+          "url": "https://www.getpickforme.com/product/russell-hobbs-satisfry-5/"
         }
       ]
     },
@@ -148,6 +192,50 @@
           "buy_it_if": "Weight is your priority: lots of stairs, reaching up high, or limited grip strength.",
           "skip_it_if": "You need long runtime and big-house power. Light means a smaller battery and bin.",
           "url": "https://www.getpickforme.com/product/halo-capsule-x/"
+        },
+        {
+          "id": "shark-powerdetect-clean-empty",
+          "name": "Shark PowerDetect Clean & Empty",
+          "brand": "Shark",
+          "type": "Cordless stick + auto-empty dock",
+          "key_spec": "DuoClean Detect · self-emptying base",
+          "price_band": "premium",
+          "buy_it_if": "You want cordless freedom AND the hands-off base of a robot vacuum: come home, dock it, it empties itself.",
+          "skip_it_if": "You want the lightest in hand; the dock adds weight and footprint, and it’s flagship money.",
+          "url": "https://www.getpickforme.com/product/shark-powerdetect-clean-empty/"
+        },
+        {
+          "id": "samsung-jet-60",
+          "name": "Samsung Jet 60 Turbo",
+          "brand": "Samsung",
+          "type": "Cordless stick",
+          "key_spec": "150W suction · lightweight",
+          "price_band": "mid",
+          "buy_it_if": "You like the Samsung ecosystem (SmartThings, app) and want a sensible mid-range stick without Dyson money.",
+          "skip_it_if": "You want the strongest suction at this price; Dyson and Shark pull a bit more.",
+          "url": "https://www.getpickforme.com/product/samsung-jet-60/"
+        },
+        {
+          "id": "dyson-v12-detect-slim",
+          "name": "Dyson V12 Detect Slim+",
+          "brand": "Dyson",
+          "type": "Cordless stick",
+          "key_spec": "Slim · laser Detect · lighter than V15",
+          "price_band": "premium",
+          "buy_it_if": "You want the Dyson Detect dust visualisation but hate the V15’s weight, especially for stairs and overhead cleaning.",
+          "skip_it_if": "You have a very big house or deep carpets; the V15 still pulls harder and runs longer.",
+          "url": "https://www.getpickforme.com/product/dyson-v12-detect-slim/"
+        },
+        {
+          "id": "henry-quick-hen100",
+          "name": "Henry Quick HEN.100",
+          "brand": "Numatic",
+          "type": "Cordless stick",
+          "key_spec": "300W · 1L bagged · UK icon",
+          "price_band": "mid",
+          "buy_it_if": "You love the Henry badge (made in UK, built forever) and want a cordless that uses bags, so emptying is clean.",
+          "skip_it_if": "You want the sleekest modern stick; this is deliberately classic Henry, charming, not minimalist.",
+          "url": "https://www.getpickforme.com/product/henry-quick-hen100/"
         }
       ]
     },
@@ -221,6 +309,50 @@
           "buy_it_if": "You want the reassurance of the Roomba brand and a vacuum-and-mop combo for the least money.",
           "skip_it_if": "You want a base that empties itself; here you empty the bin by hand. The mop is basic too.",
           "url": "https://www.getpickforme.com/product/roomba-115-combo/"
+        },
+        {
+          "id": "roborock-q7-m5",
+          "name": "Roborock Q7 M5",
+          "brand": "Roborock",
+          "type": "Robot vacuum + mop",
+          "key_spec": "10,000 Pa · LiDAR · dual anti-tangle",
+          "price_band": "budget-to-mid",
+          "buy_it_if": "You want the Roborock brand (and its app) without flagship money, and you don’t need a self-emptying dock.",
+          "skip_it_if": "You want a base that empties itself; here you empty the bin yourself.",
+          "url": "https://www.getpickforme.com/product/roborock-q7-m5/"
+        },
+        {
+          "id": "ecovacs-x2-omni",
+          "name": "Ecovacs Deebot X2 Omni",
+          "brand": "Ecovacs",
+          "type": "Robot vacuum + mop",
+          "key_spec": "8,000 Pa · AI navigation · auto-wash mop",
+          "price_band": "premium",
+          "buy_it_if": "You want flagship features (self-empty, self-washing mop, AI vision) from a serious alternative to Roborock.",
+          "skip_it_if": "You’re on a budget. This is premium money for a very good but non-indispensable alternative.",
+          "url": "https://www.getpickforme.com/product/ecovacs-x2-omni/"
+        },
+        {
+          "id": "samsung-jetbot-combo-ai",
+          "name": "Samsung Bespoke Jet Bot Combo AI+",
+          "brand": "Samsung",
+          "type": "Robot vacuum + mop",
+          "key_spec": "Wet & dry · AI object recognition · self-clean dock",
+          "price_band": "premium",
+          "buy_it_if": "Your home is Samsung-everything (SmartThings, phone, TV) and you want a robot that fits that ecosystem.",
+          "skip_it_if": "You’re looking at value for money; this costs twice what an equivalent eufy X10 or Roborock does.",
+          "url": "https://www.getpickforme.com/product/samsung-jetbot-combo-ai/"
+        },
+        {
+          "id": "shark-powerdetect-robot",
+          "name": "Shark PowerDetect Robot",
+          "brand": "Shark",
+          "type": "Robot vacuum + mop",
+          "key_spec": "3D LiDAR · 60-day self-empty dock",
+          "price_band": "premium",
+          "buy_it_if": "You want a Shark robot (trusted UK brand) with a hands-off dock and the latest 3D LiDAR mapping.",
+          "skip_it_if": "You want the cheapest route to a self-empty robot; the Roomba 115’s bin or the Dreame L10s cost less.",
+          "url": "https://www.getpickforme.com/product/shark-powerdetect-robot/"
         }
       ]
     },
@@ -294,6 +426,50 @@
           "buy_it_if": "You want to dry washing fast in an unheated room, or tackle damp somewhere cold, from a brand critics rate.",
           "skip_it_if": "Your home is warm and you want maximum water pulled per hour; a compressor does that for less.",
           "url": "https://www.getpickforme.com/product/meaco-dd8l/"
+        },
+        {
+          "id": "russell-hobbs-20l",
+          "name": "Russell Hobbs RHDH2002 20L",
+          "brand": "Russell Hobbs",
+          "type": "Compressor dehumidifier",
+          "key_spec": "20L/day · UK brand · damp & mould",
+          "price_band": "mid",
+          "buy_it_if": "You want a straightforward 20L unit from a UK brand you already own other things from, without smart-app faff.",
+          "skip_it_if": "You want the quietest or the Which? Best Buy; the Pro Breeze 20L OmniDry is a step above on both.",
+          "url": "https://www.getpickforme.com/product/russell-hobbs-20l/"
+        },
+        {
+          "id": "comfee-12l",
+          "name": "Comfee 12-14L Dehumidifier",
+          "brand": "Comfee",
+          "type": "Compressor dehumidifier",
+          "key_spec": "12-14L/day · 2.5L tank · low energy",
+          "price_band": "budget",
+          "buy_it_if": "You want a low-cost but genuinely reviewed unit for a single room or small flat.",
+          "skip_it_if": "You have a big house or serious damp; 12-14L is not enough. Jump to the Pro Breeze 20L or 30L.",
+          "url": "https://www.getpickforme.com/product/comfee-12l/"
+        },
+        {
+          "id": "sharp-ud-p16u",
+          "name": "Sharp UD-P16U-W 16L",
+          "brand": "Sharp",
+          "type": "Compressor dehumidifier",
+          "key_spec": "16L/day · Plasmacluster ion · quiet",
+          "price_band": "premium",
+          "buy_it_if": "You want Japanese reliability and quietness, and like the idea of ion technology for lingering smells.",
+          "skip_it_if": "You just need raw extraction; the Pro Breeze 20L pulls more water per hour for less money.",
+          "url": "https://www.getpickforme.com/product/sharp-ud-p16u/"
+        },
+        {
+          "id": "dreo-20l-smart",
+          "name": "Dreo 20L Smart Dehumidifier",
+          "brand": "Dreo",
+          "type": "Compressor dehumidifier",
+          "key_spec": "20L/day · Wi-Fi app · 38dB quiet",
+          "price_band": "mid",
+          "buy_it_if": "You want to leave it on overnight in a bedroom and not hear it, with app scheduling.",
+          "skip_it_if": "You don’t care about noise and just want the most capacity per pound; the Pro Breeze 30L pulls more.",
+          "url": "https://www.getpickforme.com/product/dreo-20l-smart/"
         }
       ]
     }
