@@ -172,6 +172,17 @@
           "url": "https://www.getpickforme.com/product/vax-onepwr-blade-4/"
         },
         {
+          "id": "dreame-r20",
+          "name": "dreame R20",
+          "brand": "Dreame",
+          "type": "Cordless stick",
+          "key_spec": "Up to ~90 min · 22,000Pa suction",
+          "price_band": "mid",
+          "buy_it_if": "You want real suction and a 90-min runtime without paying Dyson money. Big floor area, pets, or a whole-house session in one go.",
+          "skip_it_if": "You need something featherweight for stairs: at ~3.3kg it is not the lightest.",
+          "url": "https://www.getpickforme.com/product/dreame-r20/"
+        },
+        {
           "id": "halo-capsule-x",
           "name": "Halo Capsule X Pets",
           "brand": "Halo",
