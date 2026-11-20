@@ -27,6 +27,12 @@ A: A dual-basket around 7 to 9L. The Ninja Foodi Dual Zone AF400UK (9.5L, two dr
 Q: Can one air fryer cook a full family meal?
 A: A dual-basket can: one drawer for your main, one for the side, finishing at the same time. A single basket can too, but you'll cook in sequence, which is slower for a family.
 
+Q: Can you get a decent air fryer for under £100 in the UK?
+A: Yes, for one or two people. A 4 to 5L single basket from a known brand (Cosori 4.7L Compact or the Tower Vortx 4.2L on offer) cooks just as well as the expensive machines. What you give up is capacity, not cooking quality. If you cook for three or more, stretch to a dual-basket like the Tefal Easy Fry Dual.
+
+Q: What should I avoid in a cheap air fryer?
+A: Avoid sub-£40 unknown brands: the non-stick coating often fails quickly and there's no proper UK support when it does. A known brand (Tower, Cosori, Russell Hobbs) at £60-£80 is a better buy than an unknown at £35. Ignore huge wattage claims too: within the same size class they're all close.
+
 ### Cordless vacuums
 Q: Which cordless vacuum should I buy?
 A: For most people, the Dyson V8. The value Dyson, and the one most people should actually buy. Lighter and far cheaper than the V15, still more than enough for most homes. Buy it if You want a Dyson that's light and reliable without the flagship price, in a flat or small-to-medium house.
@@ -63,6 +69,15 @@ A: The Dyson V15 Detect is the best overall, with a soft roller designed for har
 
 Q: Do I need a special head for hard floors?
 A: You want a soft roller (Dyson calls it 'Fluffy') or a gentle brush head, not an aggressive stiff-bristle carpet beater. The aggressive head scatters fine dust on bare floors; the soft roller lifts it. Most cordless vacuums at this price include one of each in the box.
+
+Q: Can you get a good cordless vacuum for pet hair under £200 in the UK?
+A: Yes. The dreame R20 is the best overall at around £199: 90-minute runtime, 22,000Pa suction, and a brush that pops out for cleaning. The Vax ONEPWR Blade 4 is the cheaper fallback with a removable battery for long machine life. The flagship anti-hair-wrap brushes live above £300, but a weekly scissor-cut keeps a budget stick performing fine on pet hair.
+
+Q: Is a £200 cordless strong enough for a shedding dog?
+A: For hard floors and low carpet, yes. The dreame R20's 22,000Pa handles daily shed well, and the 90-minute runtime covers a 2-3 bed house in one pass without a recharge. For deep thick carpet with a heavy shedder, you'll do a second pass or step up to a Dyson V8 just over £200.
+
+Q: What should I avoid in a budget cordless for pets?
+A: Avoid sticks with sealed non-replaceable batteries (the vacuum dies when the battery does, usually in under two years) and ignore the headline Pa numbers from unknown brands. Stick to known names: dreame, Vax, Shark, or an older-generation Dyson on sale. A brush you can lift out to clean is the single feature that matters most for pet hair.
 
 ### Robot vacuums
 Q: Which robot vacuum should I buy?
@@ -113,3 +128,12 @@ A: For most heated homes, the Pro Breeze 20L OmniDry, a quiet Which? Best Buy. F
 
 Q: Will a dehumidifier stop condensation and mould?
 A: Yes, used right. Condensation forms when moist air meets cold surfaces, and mould needs that damp to grow. A dehumidifier holding the room at around 50 to 55 percent humidity removes the moisture, so condensation stops forming and mould loses the conditions it needs. Existing mould still needs cleaning off.
+
+Q: What is the best dehumidifier for a bedroom in the UK?
+A: The Dreo 20L Smart is the best all-rounder: at a quoted 38dB it's the quietest of the 20L class, with a night mode, app scheduling and enough capacity for the whole upstairs. For a single bedroom or small flat the Pro Breeze 12L is right-sized and cheaper. For a cold loft bedroom where a compressor would stall, the Meaco DD8L desiccant is the right choice.
+
+Q: How quiet does a bedroom dehumidifier need to be?
+A: Under 45dB on its lowest setting is the threshold most people can sleep through. The high 30s to low 40s is ideal. Look for a quoted noise figure (not just 'quiet' in the marketing) and a night or sleep mode that dims the display, because a bright LED in the dark is as disruptive as the hum. The Dreo 20L at 38dB is the current benchmark.
+
+Q: Is a dehumidifier safe to leave on all night in the bedroom?
+A: Yes. Modern dehumidifiers have overheat protection and shut off automatically when the tank is full, and running one at a target of 50 percent humidity actually cycles it on and off rather than running flat out. The only thing to get right is position: a metre or two from the bed, not pointing at you, and with air clearance around the top vent.
