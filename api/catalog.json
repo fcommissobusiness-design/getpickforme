@@ -119,6 +119,28 @@
           "buy_it_if": "You want a no-fuss single basket from a brand your kitchen already knows, at the lowest sensible price.",
           "skip_it_if": "You want the smartest or the newest; this is deliberately simple and basic.",
           "url": "https://www.getpickforme.com/product/russell-hobbs-satisfry-5/"
+        },
+        {
+          "id": "ninja-foodi-op350uk",
+          "name": "Ninja Foodi 9-in-1 Multi-Cooker OP350UK",
+          "brand": "Ninja",
+          "type": "Multi-cooker + air fryer",
+          "key_spec": "6L · 9 functions (pressure, air fry, slow cook, steam, bake, grill, sear, yoghurt, dehydrate)",
+          "price_band": "mid",
+          "buy_it_if": "You want one appliance that does the work of four (pressure cooker, air fryer, slow cooker, grill), and you're OK giving it a permanent worktop spot in a small or kitchen-light home.",
+          "skip_it_if": "You just want to crisp chips and chicken. A plain dual-basket air fryer is simpler and cheaper.",
+          "url": "https://www.getpickforme.com/product/ninja-foodi-op350uk/"
+        },
+        {
+          "id": "breville-halo-flexi-vdf138",
+          "name": "Breville Halo Flexi 11L VDF138",
+          "brand": "Breville",
+          "type": "Dual-basket (removable divider)",
+          "key_spec": "11L total, divider removes to make one 11L chamber, Amazon-exclusive mesh tray",
+          "price_band": "mid",
+          "buy_it_if": "You want dual-zone flexibility and the option of one single chamber big enough for a whole chicken or a tray bake; UK brand with 2-year guarantee matters.",
+          "skip_it_if": "You cook for one or two. 11L is a serious worktop commitment, and a 4-5L single basket does the same job for less.",
+          "url": "https://www.getpickforme.com/product/breville-halo-flexi-vdf138/"
         }
       ]
     },
@@ -353,6 +375,17 @@
           "buy_it_if": "You want a Shark robot (trusted UK brand) with a hands-off dock and the latest 3D LiDAR mapping.",
           "skip_it_if": "You want the cheapest route to a self-empty robot; the Roomba 115’s bin or the Dreame L10s cost less.",
           "url": "https://www.getpickforme.com/product/shark-powerdetect-robot/"
+        },
+        {
+          "id": "lefant-m330-pro",
+          "name": "Lefant M330 Pro",
+          "brand": "Lefant",
+          "type": "Robot vacuum + mop",
+          "key_spec": "5,000 Pa · dToF LiDAR · 150 min runtime · 9.5cm slim",
+          "price_band": "budget",
+          "buy_it_if": "You want a robot that actually maps your home (not drunk-wandering bump-and-go) without spending £300+; small dog or cat shedding is fine thanks to anti-tangle port.",
+          "skip_it_if": "You want a self-emptying dock or a proper mop; this empties by hand and the 200mL mop tank is a light touch-up, not a wet scrub.",
+          "url": "https://www.getpickforme.com/product/lefant-m330-pro/"
         }
       ]
     },
@@ -470,6 +503,17 @@
           "buy_it_if": "You want to leave it on overnight in a bedroom and not hear it, with app scheduling.",
           "skip_it_if": "You don’t care about noise and just want the most capacity per pound; the Pro Breeze 30L pulls more.",
           "url": "https://www.getpickforme.com/product/dreo-20l-smart/"
+        },
+        {
+          "id": "meaco-arete-one-25l",
+          "name": "MeacoDry Arete One 25L",
+          "brand": "Meaco",
+          "type": "Compressor dehumidifier + HEPA air purifier",
+          "key_spec": "25L/day · 40dB whisper mode · H13 HEPA · 4.8L front-loading tank · 5-year warranty",
+          "price_band": "premium",
+          "buy_it_if": "You have a big or very damp house (3-5 bedrooms, cold walls, condensation on windows every morning) and want ONE unit that silently handles everything, built to last.",
+          "skip_it_if": "You have a flat or a single damp room. This is overkill at £299; the Pro Breeze 12L or 20L does the job for half the money.",
+          "url": "https://www.getpickforme.com/product/meaco-arete-one-25l/"
         }
       ]
     }
