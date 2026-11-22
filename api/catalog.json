@@ -141,6 +141,17 @@
           "buy_it_if": "You want dual-zone flexibility and the option of one single chamber big enough for a whole chicken or a tray bake; UK brand with 2-year guarantee matters.",
           "skip_it_if": "You cook for one or two. 11L is a serious worktop commitment, and a 4-5L single basket does the same job for less.",
           "url": "https://www.getpickforme.com/product/breville-halo-flexi-vdf138/"
+        },
+        {
+          "id": "ninja-double-stack-xl-sl400uk",
+          "name": "Ninja Double Stack XL SL400UK",
+          "brand": "Ninja",
+          "type": "Dual-basket (vertical stack)",
+          "key_spec": "9.5L total, two 4.75L drawers stacked vertically + 2 reversible racks (4 cooking levels)",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want the Sync-style two-zone cooking of the AF400UK but your worktop can't give up the width. The vertical design saves about 15 cm side-to-side and still cooks for 5 people.",
+          "skip_it_if": "You've already settled on the AF400UK and love the side-by-side layout, or you cook for one and would never use the second drawer anyway.",
+          "url": "https://www.getpickforme.com/product/ninja-double-stack-xl-sl400uk/"
         }
       ]
     },
@@ -258,6 +269,17 @@
           "buy_it_if": "You love the Henry badge (made in UK, built forever) and want a cordless that uses bags, so emptying is clean.",
           "skip_it_if": "You want the sleekest modern stick; this is deliberately classic Henry, charming, not minimalist.",
           "url": "https://www.getpickforme.com/product/henry-quick-hen100/"
+        },
+        {
+          "id": "shark-stratos-pet-pro-iz420ukt",
+          "name": "Shark Stratos Pet Pro IZ420UKT (Double Battery)",
+          "brand": "Shark",
+          "type": "Cordless stick (double battery kit)",
+          "key_spec": "Up to 120 min runtime (2 batteries + dual charger dock), Anti-Hair Wrap Plus, Clean Sense IQ, Anti-Odour",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You have a bigger home (3+ bed), pets or long hair, and you want to clean top to bottom without pausing for a recharge. Clean Sense IQ auto-boosts suction when it detects more dust.",
+          "skip_it_if": "You live in a flat where one battery is plenty — the single-battery Stratos IZ400 does the same clean for about £100 less.",
+          "url": "https://www.getpickforme.com/product/shark-stratos-pet-pro-iz420ukt/"
         }
       ]
     },
@@ -386,6 +408,17 @@
           "buy_it_if": "You want a robot that actually maps your home (not drunk-wandering bump-and-go) without spending £300+; small dog or cat shedding is fine thanks to anti-tangle port.",
           "skip_it_if": "You want a self-emptying dock or a proper mop; this empties by hand and the 200mL mop tank is a light touch-up, not a wet scrub.",
           "url": "https://www.getpickforme.com/product/lefant-m330-pro/"
+        },
+        {
+          "id": "irobot-roomba-plus-515-combo",
+          "name": "iRobot Roomba Plus 515 Combo",
+          "brand": "iRobot",
+          "type": "Robot vacuum + mop with AutoWash dock",
+          "key_spec": "22,000 Pa suction, 90-day self-emptying bin, AutoWash dock with heated wash + heated dry, lifting spinning mops, smart obstacle avoidance",
+          "price_band": "premium",
+          "buy_it_if": "You want the hands-off premium experience (robot runs, dock empties the bin for 90 days and washes the mops for you) and you prefer iRobot UK's service network to a Chinese flagship.",
+          "skip_it_if": "You want the absolute best obstacle avoidance: UK reviewers (Just a Dad, 6.4/10, September 2026) flag that the 515 handles pet toys and loose cables worse than the previous iRobot j7+ generation. Dreame X40 Ultra and Roborock Saros 20 do this better.",
+          "url": "https://www.getpickforme.com/product/irobot-roomba-plus-515-combo/"
         }
       ]
     },
@@ -514,6 +547,17 @@
           "buy_it_if": "You have a big or very damp house (3-5 bedrooms, cold walls, condensation on windows every morning) and want ONE unit that silently handles everything, built to last.",
           "skip_it_if": "You have a flat or a single damp room. This is overkill at £299; the Pro Breeze 12L or 20L does the job for half the money.",
           "url": "https://www.getpickforme.com/product/meaco-arete-one-25l/"
+        },
+        {
+          "id": "delonghi-dex216f-16l",
+          "name": "De'Longhi DEX216F Tasciugo AriaDry 16L",
+          "brand": "De'Longhi",
+          "type": "Compressor dehumidifier, mid-range",
+          "key_spec": "16L/day, 2.1L tank, 40 dB noise, 300 W, laundry mode, R290 refrigerant, 2-year manufacturer warranty, 9 kg",
+          "price_band": "mid",
+          "buy_it_if": "You have a 2-3 bed UK house with damp or laundry-drying needs, you care about keeping it under the bedroom-conversation noise floor, and you want a known brand that'll be around in 5 years for spares.",
+          "skip_it_if": "You've got a big open-plan home over 60 m² (step up to the Meaco Arete 25L) or you want the absolute cheapest 16L on the market (Comfee or Pro Breeze PB-06 beat it on price alone).",
+          "url": "https://www.getpickforme.com/product/delonghi-dex216f-16l/"
         }
       ]
     }
