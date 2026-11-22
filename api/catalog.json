@@ -2,7 +2,7 @@
   "site": "PickForMe",
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
   "categories": [
     {
@@ -26,7 +26,7 @@
           "name": "Cosori 4.7L Compact",
           "brand": "Cosori",
           "type": "Single-basket",
-          "key_spec": "4.7L",
+          "key_spec": "4.7L · 1500W · 230°C max · tempered glass top",
           "price_band": "budget-to-mid",
           "buy_it_if": "You're one or two people, you want it to disappear into a cupboard, and you mostly reheat or cook for one.",
           "skip_it_if": "You ever cook for more than two. A 4.7L basket does not do a family roast or a full tray of chips.",
@@ -55,15 +55,15 @@
           "url": "https://www.getpickforme.com/product/tefal-easy-fry-dual/"
         },
         {
-          "id": "instant-vortex-plus-6",
-          "name": "Instant Vortex Slim",
+          "id": "instant-vortex-digital-57",
+          "name": "Instant Vortex Digital 5.7L",
           "brand": "Instant",
           "type": "Single-basket",
-          "key_spec": "5.7L",
+          "key_spec": "5.7L · 1700W · fits a 1.6kg whole chicken",
           "price_band": "mid",
-          "buy_it_if": "You cook for 3 to 4 but prefer one large basket you can see into, rather than two separate drawers.",
+          "buy_it_if": "You cook for 3 to 4 and want one big basket you can toss everything into, not two drawers to coordinate.",
           "skip_it_if": "You specifically want two foods at two temperatures at once. One basket means one setting.",
-          "url": "https://www.getpickforme.com/product/instant-vortex-plus-6/"
+          "url": "https://www.getpickforme.com/product/instant-vortex-digital-57/"
         },
         {
           "id": "philips-airfryer-3000",
