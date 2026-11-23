@@ -2,7 +2,7 @@
   "site": "PickForMe",
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
   "categories": [
     {
@@ -143,6 +143,17 @@
           "url": "https://www.getpickforme.com/product/breville-halo-flexi-vdf138/"
         },
         {
+          "id": "ninja-crispi-fn101ukst",
+          "name": "Ninja CRISPi 3.8L FN101UKST (Portable Glass)",
+          "brand": "Ninja",
+          "type": "Portable glass container air fryer",
+          "key_spec": "3.8L main + 1.4L small glass containers · 1700W · Air Fry, Roast, Keep Warm, ReCrisp · dishwasher-safe glass",
+          "price_band": "mid",
+          "buy_it_if": "You cook for one or two people, you have limited worktop, and you hate washing a separate serving dish. The 3.8L glass container holds a single 1.6kg chicken or 2 portions of chips; the 1.4L mini holds leftovers to reheat tomorrow.",
+          "skip_it_if": "You cook for 3+ people regularly, or you want speed over elegance. The glass containers add 10-15 minutes to recipes versus a traditional metal basket (glass retains more heat but preheats slower).",
+          "url": "https://www.getpickforme.com/product/ninja-crispi-fn101ukst/"
+        },
+        {
           "id": "ninja-double-stack-xl-sl400uk",
           "name": "Ninja Double Stack XL SL400UK",
           "brand": "Ninja",
@@ -269,6 +280,17 @@
           "buy_it_if": "You love the Henry badge (made in UK, built forever) and want a cordless that uses bags, so emptying is clean.",
           "skip_it_if": "You want the sleekest modern stick; this is deliberately classic Henry, charming, not minimalist.",
           "url": "https://www.getpickforme.com/product/henry-quick-hen100/"
+        },
+        {
+          "id": "shark-powerpro-iz380uk",
+          "name": "Shark PowerPro IZ380UK (Flexology)",
+          "brand": "Shark",
+          "type": "Cordless stick with flex wand",
+          "key_spec": "Up to 50 min runtime · Anti-Hair Wrap · FloorDetect auto-adjust · Flexology bending wand · 5-year guarantee on registration",
+          "price_band": "mid",
+          "buy_it_if": "You have low furniture (beds, sofas, dressers) you can't lift and don't want to lie flat to vacuum under. The Flexology hinge bends the wand to 45 degrees for sofa-under reach, then folds in half for freestanding storage in a cupboard. Anti-Hair Wrap for pets/long hair.",
+          "skip_it_if": "You want the absolute lightest (3kg handle-weight is heavier than a Dyson V8's 2.6kg), or you have no low furniture (the bend-wand is the whole point - a straight stick is fine without it). Also skip if you want Shark's top-end Anti-Hair Wrap PLUS tech (this is the older Anti-Hair Wrap, not the PLUS).",
+          "url": "https://www.getpickforme.com/product/shark-powerpro-iz380uk/"
         },
         {
           "id": "shark-stratos-pet-pro-iz420ukt",
@@ -547,6 +569,17 @@
           "buy_it_if": "You have a big or very damp house (3-5 bedrooms, cold walls, condensation on windows every morning) and want ONE unit that silently handles everything, built to last.",
           "skip_it_if": "You have a flat or a single damp room. This is overkill at £299; the Pro Breeze 12L or 20L does the job for half the money.",
           "url": "https://www.getpickforme.com/product/meaco-arete-one-25l/"
+        },
+        {
+          "id": "meaco-arete-one-12l",
+          "name": "MeacoDry Arete One 12L",
+          "brand": "Meaco",
+          "type": "Compressor dehumidifier + H13 HEPA purifier",
+          "key_spec": "12L/day · 35dB night mode · H13 HEPA air purifier · 2.5L front-loading tank · 5-year warranty · laundry mode · child lock",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You have a 1-2 bed flat or a smaller UK home (up to ~50m²), and you want the Meaco quality (ultra-quiet, HEPA purifier, 5-year warranty) without paying £299 for the 25L flagship which would be overkill for your space.",
+          "skip_it_if": "You have a 3-5 bed house with cold walls and streaming windows every morning — 12L/day won't keep up, stretch to the Arete One 25L. Or you have a single damp bedroom corner — the Pro Breeze 12L does the job for £75 less.",
+          "url": "https://www.getpickforme.com/product/meaco-arete-one-12l/"
         },
         {
           "id": "delonghi-dex216f-16l",
