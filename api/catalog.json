@@ -2,7 +2,7 @@
   "site": "PickForMe",
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
   "categories": [
     {
@@ -163,6 +163,17 @@
           "buy_it_if": "You want the Sync-style two-zone cooking of the AF400UK but your worktop can't give up the width. The vertical design saves about 15 cm side-to-side and still cooks for 5 people.",
           "skip_it_if": "You've already settled on the AF400UK and love the side-by-side layout, or you cook for one and would never use the second drawer anyway.",
           "url": "https://www.getpickforme.com/product/ninja-double-stack-xl-sl400uk/"
+        },
+        {
+          "id": "cuisinart-tri-zone-13l",
+          "name": "Cuisinart Tri Zone 13.6L AFT13",
+          "brand": "Cuisinart",
+          "type": "Dual-basket + flat oven drawer",
+          "key_spec": "13.6L (two 4.3L baskets + 5L oven drawer)",
+          "price_band": "premium",
+          "buy_it_if": "You keep hitting the one thing a dual-drawer can't do: cook something flat. Pizza, a tray of brownies, toast, a quiche. This has two air-fry baskets plus a real oven shelf, and it's PFAS-free if coatings bother you.",
+          "skip_it_if": "You want quiet, or you want the safe bet. The fan is loud and the long-term reliability reports are mixed. A Ninja is the duller, sturdier choice.",
+          "url": "https://www.getpickforme.com/product/cuisinart-tri-zone-13l/"
         }
       ]
     },
@@ -302,6 +313,28 @@
           "buy_it_if": "You have a bigger home (3+ bed), pets or long hair, and you want to clean top to bottom without pausing for a recharge. Clean Sense IQ auto-boosts suction when it detects more dust.",
           "skip_it_if": "You live in a flat where one battery is plenty — the single-battery Stratos IZ400 does the same clean for about £100 less.",
           "url": "https://www.getpickforme.com/product/shark-stratos-pet-pro-iz420ukt/"
+        },
+        {
+          "id": "hoover-hf1-max-pet",
+          "name": "Hoover HF1 Max Pet XUKF1CP",
+          "brand": "Hoover",
+          "type": "Cordless stick",
+          "key_spec": "200W · removable battery · motorised pet tool",
+          "price_band": "budget",
+          "buy_it_if": "You want a cordless that costs less than a Dyson battery. A flat, a first home, a second vacuum for upstairs. It stands up on its own, the battery comes out to charge, and the pet tool is in the box.",
+          "skip_it_if": "You have a long-haired dog and a houseful of carpet. The anti-hair-wrap isn't up to it, and the real runtime on boost is nowhere near the 50 minutes on the label.",
+          "url": "https://www.getpickforme.com/product/hoover-hf1-max-pet/"
+        },
+        {
+          "id": "shark-powerlite-clean-empty-bu3623uk",
+          "name": "Shark PowerLite Clean & Empty BU3623UK",
+          "brand": "Shark",
+          "type": "Cordless stick + auto-empty base",
+          "key_spec": "FloorDetect · HEPA base · 40 min runtime",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "Emptying the bin is the bit you hate - the dust cloud, the allergy sneeze, the tapping it on the bin edge. This drops into a base that sucks the bin out for you and seals the dust behind a HEPA filter.",
+          "skip_it_if": "You carry the vacuum up and down stairs, or you want the cleverest cleaning head. The PowerDetect does more thinking; the Dyson V12 is far lighter in the hand.",
+          "url": "https://www.getpickforme.com/product/shark-powerlite-clean-empty-bu3623uk/"
         }
       ]
     },
@@ -377,15 +410,15 @@
           "url": "https://www.getpickforme.com/product/roomba-115-combo/"
         },
         {
-          "id": "roborock-q7-m5",
-          "name": "Roborock Q7 M5",
-          "brand": "Roborock",
+          "id": "dreame-d10-plus-gen2",
+          "name": "dreame D10 Plus Gen 2",
+          "brand": "dreame",
           "type": "Robot vacuum + mop",
-          "key_spec": "10,000 Pa · LiDAR · dual anti-tangle",
+          "key_spec": "6,000 Pa · LiDAR · 4L auto-empty dock",
           "price_band": "budget-to-mid",
-          "buy_it_if": "You want the Roborock brand (and its app) without flagship money, and you don’t need a self-emptying dock.",
-          "skip_it_if": "You want a base that empties itself; here you empty the bin yourself.",
-          "url": "https://www.getpickforme.com/product/roborock-q7-m5/"
+          "buy_it_if": "You want the thing that actually changes your week - a dock you empty every couple of months, not a bin you empty every other run - and you're spending under £200.",
+          "skip_it_if": "You have deep carpet throughout, or you want a mop that washes itself. 6,000 Pa is modest, and the mop pad here is yours to rinse.",
+          "url": "https://www.getpickforme.com/product/dreame-d10-plus-gen2/"
         },
         {
           "id": "ecovacs-x2-omni",
@@ -591,6 +624,17 @@
           "buy_it_if": "You have a 2-3 bed UK house with damp or laundry-drying needs, you care about keeping it under the bedroom-conversation noise floor, and you want a known brand that'll be around in 5 years for spares.",
           "skip_it_if": "You've got a big open-plan home over 60 m² (step up to the Meaco Arete 25L) or you want the absolute cheapest 16L on the market (Comfee or Pro Breeze PB-06 beat it on price alone).",
           "url": "https://www.getpickforme.com/product/delonghi-dex216f-16l/"
+        },
+        {
+          "id": "bosch-dry-4000-16l",
+          "name": "Bosch Dry 4000",
+          "brand": "Bosch",
+          "type": "compressor",
+          "key_spec": "16L/day · 33 m² · 38 dB night mode · 2.5L tank",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want it running in a bedroom or a hallway overnight and you don't want to hear it, and you'd rather buy a brand you can get parts and service for than the cheapest 20L on the page.",
+          "skip_it_if": "You've got a whole damp house to dry out. 16L/day and 33 m² is one-floor territory - a 25L or 30L unit is the right tool for serious damp.",
+          "url": "https://www.getpickforme.com/product/bosch-dry-4000-16l/"
         }
       ]
     }
