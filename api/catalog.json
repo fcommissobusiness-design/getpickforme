@@ -2,7 +2,7 @@
   "site": "PickForMe",
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
   "categories": [
     {
@@ -174,6 +174,17 @@
           "buy_it_if": "You keep hitting the one thing a dual-drawer can't do: cook something flat. Pizza, a tray of brownies, toast, a quiche. This has two air-fry baskets plus a real oven shelf, and it's PFAS-free if coatings bother you.",
           "skip_it_if": "You want quiet, or you want the safe bet. The fan is loud and the long-term reliability reports are mixed. A Ninja is the duller, sturdier choice.",
           "url": "https://www.getpickforme.com/product/cuisinart-tri-zone-13l/"
+        },
+        {
+          "id": "ninja-af180ukcp-max-pro",
+          "name": "Ninja Air Fryer MAX PRO 6.2L AF180UKCP",
+          "brand": "Ninja",
+          "type": "Single-basket",
+          "key_spec": "6.2L single drawer · large square basket · 7 cooking functions",
+          "price_band": "mid",
+          "buy_it_if": "You cook for two or three, batch-cook for the week, or want a whole chicken or a full tray of chips in one basket - without the worktop width of a dual-basket.",
+          "skip_it_if": "You need two different foods finished together at different temperatures. That's the job of the dual-zone AF400UK, not this.",
+          "url": "https://www.getpickforme.com/product/ninja-af180ukcp-max-pro/"
         }
       ]
     },
@@ -335,6 +346,17 @@
           "buy_it_if": "Emptying the bin is the bit you hate - the dust cloud, the allergy sneeze, the tapping it on the bin edge. This drops into a base that sucks the bin out for you and seals the dust behind a HEPA filter.",
           "skip_it_if": "You carry the vacuum up and down stairs, or you want the cleverest cleaning head. The PowerDetect does more thinking; the Dyson V12 is far lighter in the hand.",
           "url": "https://www.getpickforme.com/product/shark-powerlite-clean-empty-bu3623uk/"
+        },
+        {
+          "id": "levoit-lvac200",
+          "name": "Levoit LVAC-200 Cordless",
+          "brand": "Levoit",
+          "type": "Cordless stick",
+          "key_spec": "Up to 50min runtime · anti-hair-wrap brush · 99.9% filtration · LED headlight",
+          "price_band": "budget",
+          "buy_it_if": "You want a light, cheap second vacuum for quick daily pick-ups, a flat, or stairs and the car - from Levoit (the Cosori people), not a no-name.",
+          "skip_it_if": "You want your only vacuum to last ten years, or you have a big carpeted house. This is a light-duty budget stick, not a Dyson replacement.",
+          "url": "https://www.getpickforme.com/product/levoit-lvac200/"
         }
       ]
     },
@@ -474,6 +496,17 @@
           "buy_it_if": "You want the hands-off premium experience (robot runs, dock empties the bin for 90 days and washes the mops for you) and you prefer iRobot UK's service network to a Chinese flagship.",
           "skip_it_if": "You want the absolute best obstacle avoidance: UK reviewers (Just a Dad, 6.4/10, September 2026) flag that the 515 handles pet toys and loose cables worse than the previous iRobot j7+ generation. Dreame X40 Ultra and Roborock Saros 20 do this better.",
           "url": "https://www.getpickforme.com/product/irobot-roomba-plus-515-combo/"
+        },
+        {
+          "id": "eufy-c28-omni",
+          "name": "eufy C28 Omni",
+          "brand": "eufy",
+          "type": "Robot vacuum + mop (all-in-one station)",
+          "key_spec": "15,000Pa · HydroJet self-cleaning roller mop · self-emptying + self-washing station · LiDAR",
+          "price_band": "mid-to-premium",
+          "buy_it_if": "You want a hands-off robot for a mostly hard-floor home - fill the water and empty the bin about once a week and otherwise forget it - without paying flagship money.",
+          "skip_it_if": "You have a big home with lots of rugs and awkward layouts, or you want the mop to do a proper scrub. Navigation and mopping here are 'good enough', not flagship.",
+          "url": "https://www.getpickforme.com/product/eufy-c28-omni/"
         }
       ]
     },
