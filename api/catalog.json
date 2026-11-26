@@ -2,7 +2,7 @@
   "site": "PickForMe",
   "url": "https://www.getpickforme.com",
   "market": "United Kingdom",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "note": "Editorial shortlist. No live prices by design; check Amazon.co.uk.",
   "categories": [
     {
@@ -507,6 +507,39 @@
           "buy_it_if": "You want a hands-off robot for a mostly hard-floor home - fill the water and empty the bin about once a week and otherwise forget it - without paying flagship money.",
           "skip_it_if": "You have a big home with lots of rugs and awkward layouts, or you want the mop to do a proper scrub. Navigation and mopping here are 'good enough', not flagship.",
           "url": "https://www.getpickforme.com/product/eufy-c28-omni/"
+        },
+        {
+          "id": "tapo-rv30-max-plus",
+          "name": "Tapo RV30 Max Plus",
+          "brand": "Tapo",
+          "type": "Robot vacuum + mop (self-emptying dock)",
+          "key_spec": "5,300Pa · LiDAR + IMU navigation · 3L auto-empty dock (~2 months) · app + Alexa/Google · 22mm climbing",
+          "price_band": "budget",
+          "buy_it_if": "You want weeks of hands-off vacuuming without spending £400-plus. For a flat or small house that's mostly hard floors with a bit of low-pile carpet, this maps the home well, lets you clean room by room, and empties its own bin into the dock.",
+          "skip_it_if": "You're buying it mainly to mop - the mop here is a light wet wipe, not a scrub - or you have thick rugs and high thresholds it can get beached on.",
+          "url": "https://www.getpickforme.com/product/tapo-rv30-max-plus/"
+        },
+        {
+          "id": "irobot-roomba-max-705-vac",
+          "name": "iRobot Roomba Max 705 Vac",
+          "brand": "iRobot",
+          "type": "Robot vacuum (self-emptying dock, no mop)",
+          "key_spec": "Power-lifting suction (iRobot doesn't quote Pa) · anti-tangle dual rubber brushes · LiDAR + PrecisionVision AI · AutoEmpty dock (~75 days) · recognises and avoids cords and pet waste",
+          "price_band": "mid",
+          "buy_it_if": "You have pets and hard floors or low carpet and want a robot that actually handles hair - the dual rubber brushes don't wrap up - that empties itself for weeks and dodges cables and pet waste. You don't care about mopping.",
+          "skip_it_if": "You want mopping too (this is the Vac, not the Combo), or you want the cheapest option - the Tapo RV30 and budget eufys undercut it.",
+          "url": "https://www.getpickforme.com/product/irobot-roomba-max-705-vac/"
+        },
+        {
+          "id": "eufy-omni-c20",
+          "name": "eufy Omni C20",
+          "brand": "eufy",
+          "type": "Robot vacuum + mop (all-in-one auto-wash station)",
+          "key_spec": "7,000Pa · all-in-one station: auto-empty (60 days) plus mop auto-wash and dry · 3.35in ultra-slim · Pro-Detangle comb · mop lifting · carpet detection",
+          "price_band": "mid",
+          "buy_it_if": "You want the whole hands-off package - it empties its bin, then washes and dries its own mop at the dock - for a mostly hard-floor flat or house, without paying C28 or X10 money. The ultra-slim body slips under low furniture.",
+          "skip_it_if": "You have lots of rugs and high thresholds (it hesitates on them), or you want a heavy scrub - the mop is a light daily pass, not a deep clean.",
+          "url": "https://www.getpickforme.com/product/eufy-omni-c20/"
         }
       ]
     },
