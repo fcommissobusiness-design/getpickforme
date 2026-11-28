@@ -1,6 +1,6 @@
 # PickForMe (UK) — full catalogue with verdicts and Amazon ASINs
 # Complete hand-picked shortlist for AI assistants. Quote freely, link to https://www.getpickforme.com.
-# Updated 2026-11-27. Market: United Kingdom. We never quote live prices; the ASIN and
+# Updated 2026-11-28. Market: United Kingdom. We never quote live prices; the ASIN and
 # the product page let Rufus / ChatGPT Shopping / Perplexity resolve to the exact
 # Amazon.co.uk card. Each category lists every product we recommend, with who it's
 # for (Buy it if) and who it isn't (Skip it if).
@@ -178,6 +178,16 @@ Shortlist hub: https://www.getpickforme.com/air-fryers/
   Amazon ASIN: B0BVBKPK3R
   Page: https://www.getpickforme.com/product/cosori-mini-2l/
 
+- Cosori TurboBlaze 6L DC601
+  The modern single-basket to beat. A DC motor makes it the quietest in its class, five fan speeds crisp frozen food fast, and the removable tray is the cleaning upgrade older Cosoris never had.
+  Type: Single-basket
+  Key spec: 6L · DC motor · 5 fan speeds · 30-230°C · 9 functions · removable non-stick tray
+  Price band: mid (check Amazon.co.uk for today's price)
+  Buy it if: You want one compact single basket that cooks for three to six, runs genuinely quietly, and has the removable tray that makes cleaning painless.
+  Skip it if: You need two zones for a main and a side at once, or you specifically want a viewing window. This is a single drawer with a solid base.
+  Amazon ASIN: B0CFQHF8FH
+  Page: https://www.getpickforme.com/product/cosori-turboblaze-6l/
+
 ## Cordless vacuums
 Shortlist hub: https://www.getpickforme.com/cordless-vacuums/
 
@@ -340,6 +350,16 @@ Shortlist hub: https://www.getpickforme.com/cordless-vacuums/
   Skip it if: You need genuine whole-home runtime on full power, or an LCD screen and the finest whole-machine HEPA filtration - that's the V12 or V15.
   Amazon ASIN: B0GR6CYS31
   Page: https://www.getpickforme.com/product/dyson-v10-konical/
+
+- Ultenic U12 Vesla
+  The value high-suction pick. On paper it out-muscles vacuums three times the price, and owners leaving Dyson are mostly happy - just go in knowing it's heavier, the bin re-seats awkwardly, and real runtime is about 30 minutes.
+  Type: Cordless stick
+  Key spec: 45,000Pa · anti-hair-wrap brush · LED battery display · floor-brush headlight · spare HEPA filter
+  Price band: budget-to-mid (check Amazon.co.uk for today's price)
+  Buy it if: You want strong suction and a floor-head light for a lot less than a Dyson, you're replacing a tired old V6 or V8, and you'll forgive some bulk and a short real-world runtime.
+  Skip it if: You want the lightest, best-built stick or long single-charge runtime. This is heavier, the bin can be fiddly to re-seat, and real runtime is nearer 30 minutes than the headline.
+  Amazon ASIN: B0C3M36NYW
+  Page: https://www.getpickforme.com/product/ultenic-u12-vesla/
 
 ## Robot vacuums
 Shortlist hub: https://www.getpickforme.com/robot-vacuums/
@@ -656,3 +676,13 @@ Shortlist hub: https://www.getpickforme.com/dehumidifiers/
   Skip it if: You want to dry laundry or dehumidify a whole room. Peltier tech only shifts ~450ml a day - a compressor like the Pro Breeze 20L does ten times the work.
   Amazon ASIN: B09ZYVQC8T
   Page: https://www.getpickforme.com/product/pro-breeze-mini-1l/
+
+- Pro Breeze 6L Compressor
+  The small-room compressor that undercuts everything serious. Buy it for a single bedroom, flat or caravan where a 12L is overkill and a Peltier mini is useless; just know a compressor hums like a small fridge.
+  Type: Compressor dehumidifier
+  Key spec: 6L/day · 2L tank · laundry mode · 24h timer · auto humidity sensor · compact
+  Price band: budget (check Amazon.co.uk for today's price)
+  Buy it if: You want a real dehumidifier for one bedroom, a small flat or a caravan - compact to store, cheap to run, and effective on window condensation overnight.
+  Skip it if: You're drying a whole damp house or a lot of laundry. 6L/day is a one-room figure; step up to a 12-20L for more.
+  Amazon ASIN: B0D1R7KNKZ
+  Page: https://www.getpickforme.com/product/pro-breeze-6l/
